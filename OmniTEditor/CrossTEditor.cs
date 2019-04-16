@@ -1,5 +1,4 @@
 ﻿using System;
-using TEditor;
 
 namespace OmniTEditor
 {
