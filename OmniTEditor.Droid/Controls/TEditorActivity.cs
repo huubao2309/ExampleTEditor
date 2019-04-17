@@ -63,7 +63,6 @@ namespace OmniTEditor.Droid.Controls
             bool autoFocusInput = Intent.GetBooleanExtra("AutoFocusInput", false);
             _editorWebView.SetAutoFocusInput(autoFocusInput);
 
-
             _macros = Intent.GetStringArrayListExtra("macroKeys");
             _macrosValues = Intent.GetStringArrayListExtra("macroValues");
         }

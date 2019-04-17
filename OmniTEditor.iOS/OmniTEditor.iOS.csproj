@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="EditorResources\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,6 +73,7 @@
     <Compile Include="TEditorImplementation.cs" />
     <Compile Include="ICrossEditorService.cs" />
     <Compile Include="OmniEditorSetup.cs" />
+    <Compile Include="IGetResourcesService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -163,6 +165,10 @@
     <BundleResource Include="Resources\color-picker-marker%402x.png" />
     <BundleResource Include="Resources\color-picker-save%402x.png" />
     <BundleResource Include="Resources\color-picker-trash%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EditorResources\editor.html" />
+    <EmbeddedResource Include="EditorResources\ZSSRichTextEditor.js" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.3.6.0.293080\build\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.3.6.0.293080\build\Xamarin.Forms.targets')" />

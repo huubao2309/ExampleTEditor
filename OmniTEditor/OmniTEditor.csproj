@@ -4,16 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <DefineConstants>TRACE;DEBUG;NETSTANDARD;NETSTANDARD2_0;</DefineConstants>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.6.0.293080" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Remove="EditorResources\editor.html" />
-    <None Remove="EditorResources\ZSSRichTextEditor.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="EditorResources\editor.html" />
-    <EmbeddedResource Include="EditorResources\ZSSRichTextEditor.js" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
@@ -23,5 +19,12 @@
     <Reference Include="OmniTEditor.iOS">
       <HintPath>..\OmniTEditor.iOS\bin\Debug\OmniTEditor.iOS.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="TEditorResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DependencyServices\" />
+    <Folder Include="EditorResources\" />
   </ItemGroup>
 </Project>

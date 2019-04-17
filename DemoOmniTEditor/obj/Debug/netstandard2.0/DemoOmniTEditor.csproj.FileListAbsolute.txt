@@ -1,0 +1,15 @@
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/bin/Debug/netstandard2.0/DemoOmniTEditor.deps.json
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/bin/Debug/netstandard2.0/DemoOmniTEditor.dll
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/bin/Debug/netstandard2.0/DemoOmniTEditor.pdb
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/bin/Debug/netstandard2.0/OmniTEditor.dll
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/bin/Debug/netstandard2.0/OmniTEditor.pdb
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.csprojAssemblyReference.cache
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.csproj.CoreCompileInputs.cache
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.AssemblyInfoInputs.cache
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.AssemblyInfo.cs
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.csproj.CopyComplete
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.dll
+/Users/quachhoang/Projects/ExampleTEditor/DemoOmniTEditor/obj/Debug/netstandard2.0/DemoOmniTEditor.pdb

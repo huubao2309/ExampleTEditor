@@ -26,6 +26,2969 @@ namespace DemoOmniTEditor.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::OmniTEditor.Droid.Resource.Animation.abc_fade_in = global::DemoOmniTEditor.Droid.Resource.Animation.abc_fade_in;
+			global::OmniTEditor.Droid.Resource.Animation.abc_fade_out = global::DemoOmniTEditor.Droid.Resource.Animation.abc_fade_out;
+			global::OmniTEditor.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::DemoOmniTEditor.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::OmniTEditor.Droid.Resource.Animation.abc_popup_enter = global::DemoOmniTEditor.Droid.Resource.Animation.abc_popup_enter;
+			global::OmniTEditor.Droid.Resource.Animation.abc_popup_exit = global::DemoOmniTEditor.Droid.Resource.Animation.abc_popup_exit;
+			global::OmniTEditor.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::DemoOmniTEditor.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::OmniTEditor.Droid.Resource.Animation.abc_slide_in_bottom = global::DemoOmniTEditor.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::OmniTEditor.Droid.Resource.Animation.abc_slide_in_top = global::DemoOmniTEditor.Droid.Resource.Animation.abc_slide_in_top;
+			global::OmniTEditor.Droid.Resource.Animation.abc_slide_out_bottom = global::DemoOmniTEditor.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::OmniTEditor.Droid.Resource.Animation.abc_slide_out_top = global::DemoOmniTEditor.Droid.Resource.Animation.abc_slide_out_top;
+			global::OmniTEditor.Droid.Resource.Animation.abc_tooltip_enter = global::DemoOmniTEditor.Droid.Resource.Animation.abc_tooltip_enter;
+			global::OmniTEditor.Droid.Resource.Animation.abc_tooltip_exit = global::DemoOmniTEditor.Droid.Resource.Animation.abc_tooltip_exit;
+			global::OmniTEditor.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::DemoOmniTEditor.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::OmniTEditor.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::DemoOmniTEditor.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::OmniTEditor.Droid.Resource.Animation.design_snackbar_in = global::DemoOmniTEditor.Droid.Resource.Animation.design_snackbar_in;
+			global::OmniTEditor.Droid.Resource.Animation.design_snackbar_out = global::DemoOmniTEditor.Droid.Resource.Animation.design_snackbar_out;
+			global::OmniTEditor.Droid.Resource.Animation.EnterFromLeft = global::DemoOmniTEditor.Droid.Resource.Animation.EnterFromLeft;
+			global::OmniTEditor.Droid.Resource.Animation.EnterFromRight = global::DemoOmniTEditor.Droid.Resource.Animation.EnterFromRight;
+			global::OmniTEditor.Droid.Resource.Animation.ExitToLeft = global::DemoOmniTEditor.Droid.Resource.Animation.ExitToLeft;
+			global::OmniTEditor.Droid.Resource.Animation.ExitToRight = global::DemoOmniTEditor.Droid.Resource.Animation.ExitToRight;
+			global::OmniTEditor.Droid.Resource.Animator.design_appbar_state_list_animator = global::DemoOmniTEditor.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::OmniTEditor.Droid.Resource.Animator.design_fab_hide_motion_spec = global::DemoOmniTEditor.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::OmniTEditor.Droid.Resource.Animator.design_fab_show_motion_spec = global::DemoOmniTEditor.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::OmniTEditor.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::DemoOmniTEditor.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarDivider = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarDivider;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarItemBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarItemBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarPopupTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarSize = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarSize;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarSplitStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarTabBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarTabStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarTabStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarTabTextStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.actionBarWidgetTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.actionButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionDropDownStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionDropDownStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.actionLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.actionMenuTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.actionMenuTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.actionMenuTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeCloseDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeCopyDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeCutDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeFindDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModePasteDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModePopupWindowStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeShareDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeSplitBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.actionOverflowButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionOverflowMenuStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.actionProviderClass = global::DemoOmniTEditor.Droid.Resource.Attribute.actionProviderClass;
+			global::OmniTEditor.Droid.Resource.Attribute.actionViewClass = global::DemoOmniTEditor.Droid.Resource.Attribute.actionViewClass;
+			global::OmniTEditor.Droid.Resource.Attribute.activityChooserViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.alertDialogCenterButtons = global::DemoOmniTEditor.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::OmniTEditor.Droid.Resource.Attribute.alertDialogStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.alertDialogStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.alertDialogTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.alertDialogTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.allowStacking = global::DemoOmniTEditor.Droid.Resource.Attribute.allowStacking;
+			global::OmniTEditor.Droid.Resource.Attribute.alpha = global::DemoOmniTEditor.Droid.Resource.Attribute.alpha;
+			global::OmniTEditor.Droid.Resource.Attribute.alphabeticModifiers = global::DemoOmniTEditor.Droid.Resource.Attribute.alphabeticModifiers;
+			global::OmniTEditor.Droid.Resource.Attribute.arrowHeadLength = global::DemoOmniTEditor.Droid.Resource.Attribute.arrowHeadLength;
+			global::OmniTEditor.Droid.Resource.Attribute.arrowShaftLength = global::DemoOmniTEditor.Droid.Resource.Attribute.arrowShaftLength;
+			global::OmniTEditor.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.autoSizeMaxTextSize = global::DemoOmniTEditor.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::OmniTEditor.Droid.Resource.Attribute.autoSizeMinTextSize = global::DemoOmniTEditor.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::OmniTEditor.Droid.Resource.Attribute.autoSizePresetSizes = global::DemoOmniTEditor.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::OmniTEditor.Droid.Resource.Attribute.autoSizeStepGranularity = global::DemoOmniTEditor.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::OmniTEditor.Droid.Resource.Attribute.autoSizeTextType = global::DemoOmniTEditor.Droid.Resource.Attribute.autoSizeTextType;
+			global::OmniTEditor.Droid.Resource.Attribute.background = global::DemoOmniTEditor.Droid.Resource.Attribute.background;
+			global::OmniTEditor.Droid.Resource.Attribute.backgroundSplit = global::DemoOmniTEditor.Droid.Resource.Attribute.backgroundSplit;
+			global::OmniTEditor.Droid.Resource.Attribute.backgroundStacked = global::DemoOmniTEditor.Droid.Resource.Attribute.backgroundStacked;
+			global::OmniTEditor.Droid.Resource.Attribute.backgroundTint = global::DemoOmniTEditor.Droid.Resource.Attribute.backgroundTint;
+			global::OmniTEditor.Droid.Resource.Attribute.backgroundTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.backgroundTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.barLength = global::DemoOmniTEditor.Droid.Resource.Attribute.barLength;
+			global::OmniTEditor.Droid.Resource.Attribute.behavior_autoHide = global::DemoOmniTEditor.Droid.Resource.Attribute.behavior_autoHide;
+			global::OmniTEditor.Droid.Resource.Attribute.behavior_fitToContents = global::DemoOmniTEditor.Droid.Resource.Attribute.behavior_fitToContents;
+			global::OmniTEditor.Droid.Resource.Attribute.behavior_hideable = global::DemoOmniTEditor.Droid.Resource.Attribute.behavior_hideable;
+			global::OmniTEditor.Droid.Resource.Attribute.behavior_overlapTop = global::DemoOmniTEditor.Droid.Resource.Attribute.behavior_overlapTop;
+			global::OmniTEditor.Droid.Resource.Attribute.behavior_peekHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.behavior_peekHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.behavior_skipCollapsed = global::DemoOmniTEditor.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::OmniTEditor.Droid.Resource.Attribute.borderWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.borderWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.borderlessButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.bottomAppBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.bottomNavigationStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.bottomSheetDialogTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.bottomSheetStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.bottomSheetStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.boxBackgroundColor = global::DemoOmniTEditor.Droid.Resource.Attribute.boxBackgroundColor;
+			global::OmniTEditor.Droid.Resource.Attribute.boxBackgroundMode = global::DemoOmniTEditor.Droid.Resource.Attribute.boxBackgroundMode;
+			global::OmniTEditor.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::DemoOmniTEditor.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::OmniTEditor.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::DemoOmniTEditor.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::OmniTEditor.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::DemoOmniTEditor.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::OmniTEditor.Droid.Resource.Attribute.boxStrokeColor = global::DemoOmniTEditor.Droid.Resource.Attribute.boxStrokeColor;
+			global::OmniTEditor.Droid.Resource.Attribute.boxStrokeWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.boxStrokeWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonBarButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonIconDimen = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonIconDimen;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonPanelSideLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonStyleSmall = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonStyleSmall;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonTint = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonTint;
+			global::OmniTEditor.Droid.Resource.Attribute.buttonTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.buttonTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.cardBackgroundColor = global::DemoOmniTEditor.Droid.Resource.Attribute.cardBackgroundColor;
+			global::OmniTEditor.Droid.Resource.Attribute.cardCornerRadius = global::DemoOmniTEditor.Droid.Resource.Attribute.cardCornerRadius;
+			global::OmniTEditor.Droid.Resource.Attribute.cardElevation = global::DemoOmniTEditor.Droid.Resource.Attribute.cardElevation;
+			global::OmniTEditor.Droid.Resource.Attribute.cardMaxElevation = global::DemoOmniTEditor.Droid.Resource.Attribute.cardMaxElevation;
+			global::OmniTEditor.Droid.Resource.Attribute.cardPreventCornerOverlap = global::DemoOmniTEditor.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::OmniTEditor.Droid.Resource.Attribute.cardUseCompatPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.cardViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.cardViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.checkboxStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.checkboxStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.checkedChip = global::DemoOmniTEditor.Droid.Resource.Attribute.checkedChip;
+			global::OmniTEditor.Droid.Resource.Attribute.checkedIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.checkedIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.checkedIconEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.checkedIconEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.checkedIconVisible = global::DemoOmniTEditor.Droid.Resource.Attribute.checkedIconVisible;
+			global::OmniTEditor.Droid.Resource.Attribute.checkedTextViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.chipBackgroundColor = global::DemoOmniTEditor.Droid.Resource.Attribute.chipBackgroundColor;
+			global::OmniTEditor.Droid.Resource.Attribute.chipCornerRadius = global::DemoOmniTEditor.Droid.Resource.Attribute.chipCornerRadius;
+			global::OmniTEditor.Droid.Resource.Attribute.chipEndPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.chipEndPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.chipGroupStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.chipGroupStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.chipIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.chipIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.chipIconEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.chipIconEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.chipIconSize = global::DemoOmniTEditor.Droid.Resource.Attribute.chipIconSize;
+			global::OmniTEditor.Droid.Resource.Attribute.chipIconTint = global::DemoOmniTEditor.Droid.Resource.Attribute.chipIconTint;
+			global::OmniTEditor.Droid.Resource.Attribute.chipIconVisible = global::DemoOmniTEditor.Droid.Resource.Attribute.chipIconVisible;
+			global::OmniTEditor.Droid.Resource.Attribute.chipMinHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.chipMinHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.chipSpacing = global::DemoOmniTEditor.Droid.Resource.Attribute.chipSpacing;
+			global::OmniTEditor.Droid.Resource.Attribute.chipSpacingHorizontal = global::DemoOmniTEditor.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::OmniTEditor.Droid.Resource.Attribute.chipSpacingVertical = global::DemoOmniTEditor.Droid.Resource.Attribute.chipSpacingVertical;
+			global::OmniTEditor.Droid.Resource.Attribute.chipStandaloneStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.chipStartPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.chipStartPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.chipStrokeColor = global::DemoOmniTEditor.Droid.Resource.Attribute.chipStrokeColor;
+			global::OmniTEditor.Droid.Resource.Attribute.chipStrokeWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.chipStrokeWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.chipStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.chipStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIconEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIconEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIconEndPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIconEndPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIconSize = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIconSize;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIconStartPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIconStartPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIconTint = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIconTint;
+			global::OmniTEditor.Droid.Resource.Attribute.closeIconVisible = global::DemoOmniTEditor.Droid.Resource.Attribute.closeIconVisible;
+			global::OmniTEditor.Droid.Resource.Attribute.closeItemLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.closeItemLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.collapseContentDescription = global::DemoOmniTEditor.Droid.Resource.Attribute.collapseContentDescription;
+			global::OmniTEditor.Droid.Resource.Attribute.collapseIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.collapseIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.collapsedTitleGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.color = global::DemoOmniTEditor.Droid.Resource.Attribute.color;
+			global::OmniTEditor.Droid.Resource.Attribute.colorAccent = global::DemoOmniTEditor.Droid.Resource.Attribute.colorAccent;
+			global::OmniTEditor.Droid.Resource.Attribute.colorBackgroundFloating = global::DemoOmniTEditor.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::OmniTEditor.Droid.Resource.Attribute.colorButtonNormal = global::DemoOmniTEditor.Droid.Resource.Attribute.colorButtonNormal;
+			global::OmniTEditor.Droid.Resource.Attribute.colorControlActivated = global::DemoOmniTEditor.Droid.Resource.Attribute.colorControlActivated;
+			global::OmniTEditor.Droid.Resource.Attribute.colorControlHighlight = global::DemoOmniTEditor.Droid.Resource.Attribute.colorControlHighlight;
+			global::OmniTEditor.Droid.Resource.Attribute.colorControlNormal = global::DemoOmniTEditor.Droid.Resource.Attribute.colorControlNormal;
+			global::OmniTEditor.Droid.Resource.Attribute.colorError = global::DemoOmniTEditor.Droid.Resource.Attribute.colorError;
+			global::OmniTEditor.Droid.Resource.Attribute.colorPrimary = global::DemoOmniTEditor.Droid.Resource.Attribute.colorPrimary;
+			global::OmniTEditor.Droid.Resource.Attribute.colorPrimaryDark = global::DemoOmniTEditor.Droid.Resource.Attribute.colorPrimaryDark;
+			global::OmniTEditor.Droid.Resource.Attribute.colorSecondary = global::DemoOmniTEditor.Droid.Resource.Attribute.colorSecondary;
+			global::OmniTEditor.Droid.Resource.Attribute.colorSwitchThumbNormal = global::DemoOmniTEditor.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::OmniTEditor.Droid.Resource.Attribute.commitIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.commitIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.contentDescription = global::DemoOmniTEditor.Droid.Resource.Attribute.contentDescription;
+			global::OmniTEditor.Droid.Resource.Attribute.contentInsetEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.contentInsetEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.contentInsetEndWithActions = global::DemoOmniTEditor.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::OmniTEditor.Droid.Resource.Attribute.contentInsetLeft = global::DemoOmniTEditor.Droid.Resource.Attribute.contentInsetLeft;
+			global::OmniTEditor.Droid.Resource.Attribute.contentInsetRight = global::DemoOmniTEditor.Droid.Resource.Attribute.contentInsetRight;
+			global::OmniTEditor.Droid.Resource.Attribute.contentInsetStart = global::DemoOmniTEditor.Droid.Resource.Attribute.contentInsetStart;
+			global::OmniTEditor.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::DemoOmniTEditor.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::OmniTEditor.Droid.Resource.Attribute.contentPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.contentPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.contentPaddingBottom = global::DemoOmniTEditor.Droid.Resource.Attribute.contentPaddingBottom;
+			global::OmniTEditor.Droid.Resource.Attribute.contentPaddingLeft = global::DemoOmniTEditor.Droid.Resource.Attribute.contentPaddingLeft;
+			global::OmniTEditor.Droid.Resource.Attribute.contentPaddingRight = global::DemoOmniTEditor.Droid.Resource.Attribute.contentPaddingRight;
+			global::OmniTEditor.Droid.Resource.Attribute.contentPaddingTop = global::DemoOmniTEditor.Droid.Resource.Attribute.contentPaddingTop;
+			global::OmniTEditor.Droid.Resource.Attribute.contentScrim = global::DemoOmniTEditor.Droid.Resource.Attribute.contentScrim;
+			global::OmniTEditor.Droid.Resource.Attribute.controlBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.controlBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.coordinatorLayoutStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.cornerRadius = global::DemoOmniTEditor.Droid.Resource.Attribute.cornerRadius;
+			global::OmniTEditor.Droid.Resource.Attribute.counterEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.counterEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.counterMaxLength = global::DemoOmniTEditor.Droid.Resource.Attribute.counterMaxLength;
+			global::OmniTEditor.Droid.Resource.Attribute.counterOverflowTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.counterTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.counterTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.customNavigationLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.customNavigationLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.defaultQueryHint = global::DemoOmniTEditor.Droid.Resource.Attribute.defaultQueryHint;
+			global::OmniTEditor.Droid.Resource.Attribute.dialogCornerRadius = global::DemoOmniTEditor.Droid.Resource.Attribute.dialogCornerRadius;
+			global::OmniTEditor.Droid.Resource.Attribute.dialogPreferredPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.dialogTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.dialogTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.displayOptions = global::DemoOmniTEditor.Droid.Resource.Attribute.displayOptions;
+			global::OmniTEditor.Droid.Resource.Attribute.divider = global::DemoOmniTEditor.Droid.Resource.Attribute.divider;
+			global::OmniTEditor.Droid.Resource.Attribute.dividerHorizontal = global::DemoOmniTEditor.Droid.Resource.Attribute.dividerHorizontal;
+			global::OmniTEditor.Droid.Resource.Attribute.dividerPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.dividerPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.dividerVertical = global::DemoOmniTEditor.Droid.Resource.Attribute.dividerVertical;
+			global::OmniTEditor.Droid.Resource.Attribute.drawableSize = global::DemoOmniTEditor.Droid.Resource.Attribute.drawableSize;
+			global::OmniTEditor.Droid.Resource.Attribute.drawerArrowStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.drawerArrowStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.dropDownListViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.editTextBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.editTextBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.editTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.editTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.editTextStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.editTextStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.elevation = global::DemoOmniTEditor.Droid.Resource.Attribute.elevation;
+			global::OmniTEditor.Droid.Resource.Attribute.enforceMaterialTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.enforceTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.enforceTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.errorEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.errorEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.errorTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.errorTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.expanded = global::DemoOmniTEditor.Droid.Resource.Attribute.expanded;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleMargin = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleMargin;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleMarginBottom = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleMarginEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleMarginStart = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleMarginTop = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::OmniTEditor.Droid.Resource.Attribute.expandedTitleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.externalRouteEnabledDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.fabAlignmentMode = global::DemoOmniTEditor.Droid.Resource.Attribute.fabAlignmentMode;
+			global::OmniTEditor.Droid.Resource.Attribute.fabCradleMargin = global::DemoOmniTEditor.Droid.Resource.Attribute.fabCradleMargin;
+			global::OmniTEditor.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::DemoOmniTEditor.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::OmniTEditor.Droid.Resource.Attribute.fabCradleVerticalOffset = global::DemoOmniTEditor.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::OmniTEditor.Droid.Resource.Attribute.fabCustomSize = global::DemoOmniTEditor.Droid.Resource.Attribute.fabCustomSize;
+			global::OmniTEditor.Droid.Resource.Attribute.fabSize = global::DemoOmniTEditor.Droid.Resource.Attribute.fabSize;
+			global::OmniTEditor.Droid.Resource.Attribute.fastScrollEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.fastScrollEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.firstBaselineToTopHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.floatingActionButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.font = global::DemoOmniTEditor.Droid.Resource.Attribute.font;
+			global::OmniTEditor.Droid.Resource.Attribute.fontFamily = global::DemoOmniTEditor.Droid.Resource.Attribute.fontFamily;
+			global::OmniTEditor.Droid.Resource.Attribute.fontProviderAuthority = global::DemoOmniTEditor.Droid.Resource.Attribute.fontProviderAuthority;
+			global::OmniTEditor.Droid.Resource.Attribute.fontProviderCerts = global::DemoOmniTEditor.Droid.Resource.Attribute.fontProviderCerts;
+			global::OmniTEditor.Droid.Resource.Attribute.fontProviderFetchStrategy = global::DemoOmniTEditor.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::OmniTEditor.Droid.Resource.Attribute.fontProviderFetchTimeout = global::DemoOmniTEditor.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::OmniTEditor.Droid.Resource.Attribute.fontProviderPackage = global::DemoOmniTEditor.Droid.Resource.Attribute.fontProviderPackage;
+			global::OmniTEditor.Droid.Resource.Attribute.fontProviderQuery = global::DemoOmniTEditor.Droid.Resource.Attribute.fontProviderQuery;
+			global::OmniTEditor.Droid.Resource.Attribute.fontStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.fontStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.fontVariationSettings = global::DemoOmniTEditor.Droid.Resource.Attribute.fontVariationSettings;
+			global::OmniTEditor.Droid.Resource.Attribute.fontWeight = global::DemoOmniTEditor.Droid.Resource.Attribute.fontWeight;
+			global::OmniTEditor.Droid.Resource.Attribute.foregroundInsidePadding = global::DemoOmniTEditor.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::OmniTEditor.Droid.Resource.Attribute.gapBetweenBars = global::DemoOmniTEditor.Droid.Resource.Attribute.gapBetweenBars;
+			global::OmniTEditor.Droid.Resource.Attribute.goIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.goIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.headerLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.headerLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.height = global::DemoOmniTEditor.Droid.Resource.Attribute.height;
+			global::OmniTEditor.Droid.Resource.Attribute.helperText = global::DemoOmniTEditor.Droid.Resource.Attribute.helperText;
+			global::OmniTEditor.Droid.Resource.Attribute.helperTextEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.helperTextEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.helperTextTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.hideMotionSpec = global::DemoOmniTEditor.Droid.Resource.Attribute.hideMotionSpec;
+			global::OmniTEditor.Droid.Resource.Attribute.hideOnContentScroll = global::DemoOmniTEditor.Droid.Resource.Attribute.hideOnContentScroll;
+			global::OmniTEditor.Droid.Resource.Attribute.hideOnScroll = global::DemoOmniTEditor.Droid.Resource.Attribute.hideOnScroll;
+			global::OmniTEditor.Droid.Resource.Attribute.hintAnimationEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.hintEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.hintEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.hintTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.hintTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.homeAsUpIndicator = global::DemoOmniTEditor.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::OmniTEditor.Droid.Resource.Attribute.homeLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.homeLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::DemoOmniTEditor.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::OmniTEditor.Droid.Resource.Attribute.icon = global::DemoOmniTEditor.Droid.Resource.Attribute.icon;
+			global::OmniTEditor.Droid.Resource.Attribute.iconEndPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.iconEndPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.iconGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.iconGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.iconPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.iconPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.iconSize = global::DemoOmniTEditor.Droid.Resource.Attribute.iconSize;
+			global::OmniTEditor.Droid.Resource.Attribute.iconStartPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.iconStartPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.iconTint = global::DemoOmniTEditor.Droid.Resource.Attribute.iconTint;
+			global::OmniTEditor.Droid.Resource.Attribute.iconTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.iconTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.iconifiedByDefault = global::DemoOmniTEditor.Droid.Resource.Attribute.iconifiedByDefault;
+			global::OmniTEditor.Droid.Resource.Attribute.imageButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.imageButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.indeterminateProgressStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.initialActivityCount = global::DemoOmniTEditor.Droid.Resource.Attribute.initialActivityCount;
+			global::OmniTEditor.Droid.Resource.Attribute.insetForeground = global::DemoOmniTEditor.Droid.Resource.Attribute.insetForeground;
+			global::OmniTEditor.Droid.Resource.Attribute.isLightTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.isLightTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.itemBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.itemBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.itemHorizontalPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.itemIconPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.itemIconPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.itemIconSize = global::DemoOmniTEditor.Droid.Resource.Attribute.itemIconSize;
+			global::OmniTEditor.Droid.Resource.Attribute.itemIconTint = global::DemoOmniTEditor.Droid.Resource.Attribute.itemIconTint;
+			global::OmniTEditor.Droid.Resource.Attribute.itemPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.itemPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.itemSpacing = global::DemoOmniTEditor.Droid.Resource.Attribute.itemSpacing;
+			global::OmniTEditor.Droid.Resource.Attribute.itemTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.itemTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.itemTextAppearanceActive = global::DemoOmniTEditor.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::OmniTEditor.Droid.Resource.Attribute.itemTextAppearanceInactive = global::DemoOmniTEditor.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::OmniTEditor.Droid.Resource.Attribute.itemTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.itemTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.keylines = global::DemoOmniTEditor.Droid.Resource.Attribute.keylines;
+			global::OmniTEditor.Droid.Resource.Attribute.labelVisibilityMode = global::DemoOmniTEditor.Droid.Resource.Attribute.labelVisibilityMode;
+			global::OmniTEditor.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.layout = global::DemoOmniTEditor.Droid.Resource.Attribute.layout;
+			global::OmniTEditor.Droid.Resource.Attribute.layoutManager = global::DemoOmniTEditor.Droid.Resource.Attribute.layoutManager;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_anchor = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_anchor;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_anchorGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_anchorGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_behavior = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_behavior;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_collapseMode = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_collapseMode;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_insetEdge = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_insetEdge;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_keyline = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_keyline;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_scrollFlags = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_scrollFlags;
+			global::OmniTEditor.Droid.Resource.Attribute.layout_scrollInterpolator = global::DemoOmniTEditor.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::OmniTEditor.Droid.Resource.Attribute.liftOnScroll = global::DemoOmniTEditor.Droid.Resource.Attribute.liftOnScroll;
+			global::OmniTEditor.Droid.Resource.Attribute.lineHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.lineHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.lineSpacing = global::DemoOmniTEditor.Droid.Resource.Attribute.lineSpacing;
+			global::OmniTEditor.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::DemoOmniTEditor.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::OmniTEditor.Droid.Resource.Attribute.listDividerAlertDialog = global::DemoOmniTEditor.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::OmniTEditor.Droid.Resource.Attribute.listItemLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.listItemLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.listLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.listLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.listMenuViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.listMenuViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.listPopupWindowStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.listPreferredItemHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::DemoOmniTEditor.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::OmniTEditor.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::DemoOmniTEditor.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::OmniTEditor.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::DemoOmniTEditor.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::OmniTEditor.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::DemoOmniTEditor.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::OmniTEditor.Droid.Resource.Attribute.logo = global::DemoOmniTEditor.Droid.Resource.Attribute.logo;
+			global::OmniTEditor.Droid.Resource.Attribute.logoDescription = global::DemoOmniTEditor.Droid.Resource.Attribute.logoDescription;
+			global::OmniTEditor.Droid.Resource.Attribute.materialButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.materialButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.materialCardViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.materialCardViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.maxActionInlineWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.maxButtonHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.maxButtonHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.maxImageSize = global::DemoOmniTEditor.Droid.Resource.Attribute.maxImageSize;
+			global::OmniTEditor.Droid.Resource.Attribute.measureWithLargestChild = global::DemoOmniTEditor.Droid.Resource.Attribute.measureWithLargestChild;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteButtonTint = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteButtonTint;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteCloseDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRoutePauseDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRoutePlayDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteStopDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.mediaRouteTvIconDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.menu = global::DemoOmniTEditor.Droid.Resource.Attribute.menu;
+			global::OmniTEditor.Droid.Resource.Attribute.multiChoiceItemLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.navigationContentDescription = global::DemoOmniTEditor.Droid.Resource.Attribute.navigationContentDescription;
+			global::OmniTEditor.Droid.Resource.Attribute.navigationIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.navigationIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.navigationMode = global::DemoOmniTEditor.Droid.Resource.Attribute.navigationMode;
+			global::OmniTEditor.Droid.Resource.Attribute.navigationViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.navigationViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.numericModifiers = global::DemoOmniTEditor.Droid.Resource.Attribute.numericModifiers;
+			global::OmniTEditor.Droid.Resource.Attribute.overlapAnchor = global::DemoOmniTEditor.Droid.Resource.Attribute.overlapAnchor;
+			global::OmniTEditor.Droid.Resource.Attribute.paddingBottomNoButtons = global::DemoOmniTEditor.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::OmniTEditor.Droid.Resource.Attribute.paddingEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.paddingEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.paddingStart = global::DemoOmniTEditor.Droid.Resource.Attribute.paddingStart;
+			global::OmniTEditor.Droid.Resource.Attribute.paddingTopNoTitle = global::DemoOmniTEditor.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::OmniTEditor.Droid.Resource.Attribute.panelBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.panelBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.panelMenuListTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.panelMenuListTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.panelMenuListWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.panelMenuListWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.passwordToggleContentDescription = global::DemoOmniTEditor.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::OmniTEditor.Droid.Resource.Attribute.passwordToggleDrawable = global::DemoOmniTEditor.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::OmniTEditor.Droid.Resource.Attribute.passwordToggleEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.passwordToggleTint = global::DemoOmniTEditor.Droid.Resource.Attribute.passwordToggleTint;
+			global::OmniTEditor.Droid.Resource.Attribute.passwordToggleTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.popupMenuStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.popupMenuStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.popupTheme = global::DemoOmniTEditor.Droid.Resource.Attribute.popupTheme;
+			global::OmniTEditor.Droid.Resource.Attribute.popupWindowStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.popupWindowStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.preserveIconSpacing = global::DemoOmniTEditor.Droid.Resource.Attribute.preserveIconSpacing;
+			global::OmniTEditor.Droid.Resource.Attribute.pressedTranslationZ = global::DemoOmniTEditor.Droid.Resource.Attribute.pressedTranslationZ;
+			global::OmniTEditor.Droid.Resource.Attribute.progressBarPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.progressBarPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.progressBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.progressBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.queryBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.queryBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.queryHint = global::DemoOmniTEditor.Droid.Resource.Attribute.queryHint;
+			global::OmniTEditor.Droid.Resource.Attribute.radioButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.radioButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.ratingBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.ratingBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.ratingBarStyleIndicator = global::DemoOmniTEditor.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::OmniTEditor.Droid.Resource.Attribute.ratingBarStyleSmall = global::DemoOmniTEditor.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::OmniTEditor.Droid.Resource.Attribute.reverseLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.reverseLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.rippleColor = global::DemoOmniTEditor.Droid.Resource.Attribute.rippleColor;
+			global::OmniTEditor.Droid.Resource.Attribute.scrimAnimationDuration = global::DemoOmniTEditor.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::OmniTEditor.Droid.Resource.Attribute.scrimBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.scrimBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::DemoOmniTEditor.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::OmniTEditor.Droid.Resource.Attribute.searchHintIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.searchHintIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.searchIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.searchIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.searchViewStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.searchViewStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.seekBarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.seekBarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.selectableItemBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.selectableItemBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::DemoOmniTEditor.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::OmniTEditor.Droid.Resource.Attribute.showAsAction = global::DemoOmniTEditor.Droid.Resource.Attribute.showAsAction;
+			global::OmniTEditor.Droid.Resource.Attribute.showDividers = global::DemoOmniTEditor.Droid.Resource.Attribute.showDividers;
+			global::OmniTEditor.Droid.Resource.Attribute.showMotionSpec = global::DemoOmniTEditor.Droid.Resource.Attribute.showMotionSpec;
+			global::OmniTEditor.Droid.Resource.Attribute.showText = global::DemoOmniTEditor.Droid.Resource.Attribute.showText;
+			global::OmniTEditor.Droid.Resource.Attribute.showTitle = global::DemoOmniTEditor.Droid.Resource.Attribute.showTitle;
+			global::OmniTEditor.Droid.Resource.Attribute.singleChoiceItemLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.singleLine = global::DemoOmniTEditor.Droid.Resource.Attribute.singleLine;
+			global::OmniTEditor.Droid.Resource.Attribute.singleSelection = global::DemoOmniTEditor.Droid.Resource.Attribute.singleSelection;
+			global::OmniTEditor.Droid.Resource.Attribute.snackbarButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.snackbarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.snackbarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.spanCount = global::DemoOmniTEditor.Droid.Resource.Attribute.spanCount;
+			global::OmniTEditor.Droid.Resource.Attribute.spinBars = global::DemoOmniTEditor.Droid.Resource.Attribute.spinBars;
+			global::OmniTEditor.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.spinnerStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.spinnerStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.splitTrack = global::DemoOmniTEditor.Droid.Resource.Attribute.splitTrack;
+			global::OmniTEditor.Droid.Resource.Attribute.srcCompat = global::DemoOmniTEditor.Droid.Resource.Attribute.srcCompat;
+			global::OmniTEditor.Droid.Resource.Attribute.stackFromEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.stackFromEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.state_above_anchor = global::DemoOmniTEditor.Droid.Resource.Attribute.state_above_anchor;
+			global::OmniTEditor.Droid.Resource.Attribute.state_collapsed = global::DemoOmniTEditor.Droid.Resource.Attribute.state_collapsed;
+			global::OmniTEditor.Droid.Resource.Attribute.state_collapsible = global::DemoOmniTEditor.Droid.Resource.Attribute.state_collapsible;
+			global::OmniTEditor.Droid.Resource.Attribute.state_liftable = global::DemoOmniTEditor.Droid.Resource.Attribute.state_liftable;
+			global::OmniTEditor.Droid.Resource.Attribute.state_lifted = global::DemoOmniTEditor.Droid.Resource.Attribute.state_lifted;
+			global::OmniTEditor.Droid.Resource.Attribute.statusBarBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.statusBarBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.statusBarScrim = global::DemoOmniTEditor.Droid.Resource.Attribute.statusBarScrim;
+			global::OmniTEditor.Droid.Resource.Attribute.strokeColor = global::DemoOmniTEditor.Droid.Resource.Attribute.strokeColor;
+			global::OmniTEditor.Droid.Resource.Attribute.strokeWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.strokeWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.subMenuArrow = global::DemoOmniTEditor.Droid.Resource.Attribute.subMenuArrow;
+			global::OmniTEditor.Droid.Resource.Attribute.submitBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.submitBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.subtitle = global::DemoOmniTEditor.Droid.Resource.Attribute.subtitle;
+			global::OmniTEditor.Droid.Resource.Attribute.subtitleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.subtitleTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.subtitleTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.subtitleTextStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.subtitleTextStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.suggestionRowLayout = global::DemoOmniTEditor.Droid.Resource.Attribute.suggestionRowLayout;
+			global::OmniTEditor.Droid.Resource.Attribute.switchMinWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.switchMinWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.switchPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.switchPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.switchStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.switchStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.switchTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.switchTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.tabBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.tabBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.tabContentStart = global::DemoOmniTEditor.Droid.Resource.Attribute.tabContentStart;
+			global::OmniTEditor.Droid.Resource.Attribute.tabGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.tabGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIconTint = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIconTint;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIconTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIconTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIndicator = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIndicator;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIndicatorColor = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIndicatorColor;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIndicatorFullWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIndicatorGravity = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::OmniTEditor.Droid.Resource.Attribute.tabIndicatorHeight = global::DemoOmniTEditor.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::OmniTEditor.Droid.Resource.Attribute.tabInlineLabel = global::DemoOmniTEditor.Droid.Resource.Attribute.tabInlineLabel;
+			global::OmniTEditor.Droid.Resource.Attribute.tabMaxWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.tabMaxWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.tabMinWidth = global::DemoOmniTEditor.Droid.Resource.Attribute.tabMinWidth;
+			global::OmniTEditor.Droid.Resource.Attribute.tabMode = global::DemoOmniTEditor.Droid.Resource.Attribute.tabMode;
+			global::OmniTEditor.Droid.Resource.Attribute.tabPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.tabPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.tabPaddingBottom = global::DemoOmniTEditor.Droid.Resource.Attribute.tabPaddingBottom;
+			global::OmniTEditor.Droid.Resource.Attribute.tabPaddingEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.tabPaddingEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.tabPaddingStart = global::DemoOmniTEditor.Droid.Resource.Attribute.tabPaddingStart;
+			global::OmniTEditor.Droid.Resource.Attribute.tabPaddingTop = global::DemoOmniTEditor.Droid.Resource.Attribute.tabPaddingTop;
+			global::OmniTEditor.Droid.Resource.Attribute.tabRippleColor = global::DemoOmniTEditor.Droid.Resource.Attribute.tabRippleColor;
+			global::OmniTEditor.Droid.Resource.Attribute.tabSelectedTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.tabStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.tabStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.tabTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.tabTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.tabTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.tabTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.tabUnboundedRipple = global::DemoOmniTEditor.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::OmniTEditor.Droid.Resource.Attribute.textAllCaps = global::DemoOmniTEditor.Droid.Resource.Attribute.textAllCaps;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceBody1 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceBody1;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceBody2 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceBody2;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceButton = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceButton;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceCaption = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceCaption;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline1 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline2 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline3 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline4 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline5 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline6 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceListItem = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceListItem;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceListItemSmall = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceOverline = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceOverline;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::OmniTEditor.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::DemoOmniTEditor.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::OmniTEditor.Droid.Resource.Attribute.textColorAlertDialogListItem = global::DemoOmniTEditor.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::OmniTEditor.Droid.Resource.Attribute.textColorSearchUrl = global::DemoOmniTEditor.Droid.Resource.Attribute.textColorSearchUrl;
+			global::OmniTEditor.Droid.Resource.Attribute.textEndPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.textEndPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.textInputStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.textInputStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.textStartPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.textStartPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.theme = global::DemoOmniTEditor.Droid.Resource.Attribute.theme;
+			global::OmniTEditor.Droid.Resource.Attribute.thickness = global::DemoOmniTEditor.Droid.Resource.Attribute.thickness;
+			global::OmniTEditor.Droid.Resource.Attribute.thumbTextPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.thumbTextPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.thumbTint = global::DemoOmniTEditor.Droid.Resource.Attribute.thumbTint;
+			global::OmniTEditor.Droid.Resource.Attribute.thumbTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.thumbTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.tickMark = global::DemoOmniTEditor.Droid.Resource.Attribute.tickMark;
+			global::OmniTEditor.Droid.Resource.Attribute.tickMarkTint = global::DemoOmniTEditor.Droid.Resource.Attribute.tickMarkTint;
+			global::OmniTEditor.Droid.Resource.Attribute.tickMarkTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.tickMarkTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.tint = global::DemoOmniTEditor.Droid.Resource.Attribute.tint;
+			global::OmniTEditor.Droid.Resource.Attribute.tintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.tintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.title = global::DemoOmniTEditor.Droid.Resource.Attribute.title;
+			global::OmniTEditor.Droid.Resource.Attribute.titleEnabled = global::DemoOmniTEditor.Droid.Resource.Attribute.titleEnabled;
+			global::OmniTEditor.Droid.Resource.Attribute.titleMargin = global::DemoOmniTEditor.Droid.Resource.Attribute.titleMargin;
+			global::OmniTEditor.Droid.Resource.Attribute.titleMarginBottom = global::DemoOmniTEditor.Droid.Resource.Attribute.titleMarginBottom;
+			global::OmniTEditor.Droid.Resource.Attribute.titleMarginEnd = global::DemoOmniTEditor.Droid.Resource.Attribute.titleMarginEnd;
+			global::OmniTEditor.Droid.Resource.Attribute.titleMarginStart = global::DemoOmniTEditor.Droid.Resource.Attribute.titleMarginStart;
+			global::OmniTEditor.Droid.Resource.Attribute.titleMarginTop = global::DemoOmniTEditor.Droid.Resource.Attribute.titleMarginTop;
+			global::OmniTEditor.Droid.Resource.Attribute.titleMargins = global::DemoOmniTEditor.Droid.Resource.Attribute.titleMargins;
+			global::OmniTEditor.Droid.Resource.Attribute.titleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Attribute.titleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Attribute.titleTextColor = global::DemoOmniTEditor.Droid.Resource.Attribute.titleTextColor;
+			global::OmniTEditor.Droid.Resource.Attribute.titleTextStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.titleTextStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.toolbarId = global::DemoOmniTEditor.Droid.Resource.Attribute.toolbarId;
+			global::OmniTEditor.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.toolbarStyle = global::DemoOmniTEditor.Droid.Resource.Attribute.toolbarStyle;
+			global::OmniTEditor.Droid.Resource.Attribute.tooltipForegroundColor = global::DemoOmniTEditor.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::OmniTEditor.Droid.Resource.Attribute.tooltipFrameBackground = global::DemoOmniTEditor.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::OmniTEditor.Droid.Resource.Attribute.tooltipText = global::DemoOmniTEditor.Droid.Resource.Attribute.tooltipText;
+			global::OmniTEditor.Droid.Resource.Attribute.track = global::DemoOmniTEditor.Droid.Resource.Attribute.track;
+			global::OmniTEditor.Droid.Resource.Attribute.trackTint = global::DemoOmniTEditor.Droid.Resource.Attribute.trackTint;
+			global::OmniTEditor.Droid.Resource.Attribute.trackTintMode = global::DemoOmniTEditor.Droid.Resource.Attribute.trackTintMode;
+			global::OmniTEditor.Droid.Resource.Attribute.ttcIndex = global::DemoOmniTEditor.Droid.Resource.Attribute.ttcIndex;
+			global::OmniTEditor.Droid.Resource.Attribute.useCompatPadding = global::DemoOmniTEditor.Droid.Resource.Attribute.useCompatPadding;
+			global::OmniTEditor.Droid.Resource.Attribute.viewInflaterClass = global::DemoOmniTEditor.Droid.Resource.Attribute.viewInflaterClass;
+			global::OmniTEditor.Droid.Resource.Attribute.voiceIcon = global::DemoOmniTEditor.Droid.Resource.Attribute.voiceIcon;
+			global::OmniTEditor.Droid.Resource.Attribute.windowActionBar = global::DemoOmniTEditor.Droid.Resource.Attribute.windowActionBar;
+			global::OmniTEditor.Droid.Resource.Attribute.windowActionBarOverlay = global::DemoOmniTEditor.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::OmniTEditor.Droid.Resource.Attribute.windowActionModeOverlay = global::DemoOmniTEditor.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::OmniTEditor.Droid.Resource.Attribute.windowFixedHeightMajor = global::DemoOmniTEditor.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::OmniTEditor.Droid.Resource.Attribute.windowFixedHeightMinor = global::DemoOmniTEditor.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::OmniTEditor.Droid.Resource.Attribute.windowFixedWidthMajor = global::DemoOmniTEditor.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::OmniTEditor.Droid.Resource.Attribute.windowFixedWidthMinor = global::DemoOmniTEditor.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::OmniTEditor.Droid.Resource.Attribute.windowMinWidthMajor = global::DemoOmniTEditor.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::OmniTEditor.Droid.Resource.Attribute.windowMinWidthMinor = global::DemoOmniTEditor.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::OmniTEditor.Droid.Resource.Attribute.windowNoTitle = global::DemoOmniTEditor.Droid.Resource.Attribute.windowNoTitle;
+			global::OmniTEditor.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::DemoOmniTEditor.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::OmniTEditor.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::DemoOmniTEditor.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::OmniTEditor.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::DemoOmniTEditor.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::OmniTEditor.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::DemoOmniTEditor.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::OmniTEditor.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::DemoOmniTEditor.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::OmniTEditor.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::DemoOmniTEditor.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::OmniTEditor.Droid.Resource.Color.abc_btn_colored_text_material = global::DemoOmniTEditor.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::OmniTEditor.Droid.Resource.Color.abc_color_highlight_material = global::DemoOmniTEditor.Droid.Resource.Color.abc_color_highlight_material;
+			global::OmniTEditor.Droid.Resource.Color.abc_hint_foreground_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.abc_hint_foreground_material_light = global::DemoOmniTEditor.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::OmniTEditor.Droid.Resource.Color.abc_input_method_navigation_guard = global::DemoOmniTEditor.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::OmniTEditor.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::DemoOmniTEditor.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::OmniTEditor.Droid.Resource.Color.abc_primary_text_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.abc_primary_text_material_light = global::DemoOmniTEditor.Droid.Resource.Color.abc_primary_text_material_light;
+			global::OmniTEditor.Droid.Resource.Color.abc_search_url_text = global::DemoOmniTEditor.Droid.Resource.Color.abc_search_url_text;
+			global::OmniTEditor.Droid.Resource.Color.abc_search_url_text_normal = global::DemoOmniTEditor.Droid.Resource.Color.abc_search_url_text_normal;
+			global::OmniTEditor.Droid.Resource.Color.abc_search_url_text_pressed = global::DemoOmniTEditor.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::OmniTEditor.Droid.Resource.Color.abc_search_url_text_selected = global::DemoOmniTEditor.Droid.Resource.Color.abc_search_url_text_selected;
+			global::OmniTEditor.Droid.Resource.Color.abc_secondary_text_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.abc_secondary_text_material_light = global::DemoOmniTEditor.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::OmniTEditor.Droid.Resource.Color.abc_tint_btn_checkable = global::DemoOmniTEditor.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::OmniTEditor.Droid.Resource.Color.abc_tint_default = global::DemoOmniTEditor.Droid.Resource.Color.abc_tint_default;
+			global::OmniTEditor.Droid.Resource.Color.abc_tint_edittext = global::DemoOmniTEditor.Droid.Resource.Color.abc_tint_edittext;
+			global::OmniTEditor.Droid.Resource.Color.abc_tint_seek_thumb = global::DemoOmniTEditor.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::OmniTEditor.Droid.Resource.Color.abc_tint_spinner = global::DemoOmniTEditor.Droid.Resource.Color.abc_tint_spinner;
+			global::OmniTEditor.Droid.Resource.Color.abc_tint_switch_track = global::DemoOmniTEditor.Droid.Resource.Color.abc_tint_switch_track;
+			global::OmniTEditor.Droid.Resource.Color.accent_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.accent_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.accent_material_light = global::DemoOmniTEditor.Droid.Resource.Color.accent_material_light;
+			global::OmniTEditor.Droid.Resource.Color.background_floating_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.background_floating_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.background_floating_material_light = global::DemoOmniTEditor.Droid.Resource.Color.background_floating_material_light;
+			global::OmniTEditor.Droid.Resource.Color.background_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.background_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.background_material_light = global::DemoOmniTEditor.Droid.Resource.Color.background_material_light;
+			global::OmniTEditor.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.bright_foreground_disabled_material_light = global::DemoOmniTEditor.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::OmniTEditor.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.bright_foreground_inverse_material_light = global::DemoOmniTEditor.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::OmniTEditor.Droid.Resource.Color.bright_foreground_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.bright_foreground_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.bright_foreground_material_light = global::DemoOmniTEditor.Droid.Resource.Color.bright_foreground_material_light;
+			global::OmniTEditor.Droid.Resource.Color.browser_actions_bg_grey = global::DemoOmniTEditor.Droid.Resource.Color.browser_actions_bg_grey;
+			global::OmniTEditor.Droid.Resource.Color.browser_actions_divider_color = global::DemoOmniTEditor.Droid.Resource.Color.browser_actions_divider_color;
+			global::OmniTEditor.Droid.Resource.Color.browser_actions_text_color = global::DemoOmniTEditor.Droid.Resource.Color.browser_actions_text_color;
+			global::OmniTEditor.Droid.Resource.Color.browser_actions_title_color = global::DemoOmniTEditor.Droid.Resource.Color.browser_actions_title_color;
+			global::OmniTEditor.Droid.Resource.Color.button_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.button_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.button_material_light = global::DemoOmniTEditor.Droid.Resource.Color.button_material_light;
+			global::OmniTEditor.Droid.Resource.Color.cardview_dark_background = global::DemoOmniTEditor.Droid.Resource.Color.cardview_dark_background;
+			global::OmniTEditor.Droid.Resource.Color.cardview_light_background = global::DemoOmniTEditor.Droid.Resource.Color.cardview_light_background;
+			global::OmniTEditor.Droid.Resource.Color.cardview_shadow_end_color = global::DemoOmniTEditor.Droid.Resource.Color.cardview_shadow_end_color;
+			global::OmniTEditor.Droid.Resource.Color.cardview_shadow_start_color = global::DemoOmniTEditor.Droid.Resource.Color.cardview_shadow_start_color;
+			global::OmniTEditor.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::DemoOmniTEditor.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::OmniTEditor.Droid.Resource.Color.design_default_color_primary = global::DemoOmniTEditor.Droid.Resource.Color.design_default_color_primary;
+			global::OmniTEditor.Droid.Resource.Color.design_default_color_primary_dark = global::DemoOmniTEditor.Droid.Resource.Color.design_default_color_primary_dark;
+			global::OmniTEditor.Droid.Resource.Color.design_error = global::DemoOmniTEditor.Droid.Resource.Color.design_error;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_shadow_end_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_shadow_mid_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_shadow_start_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::OmniTEditor.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::DemoOmniTEditor.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::OmniTEditor.Droid.Resource.Color.design_snackbar_background_color = global::DemoOmniTEditor.Droid.Resource.Color.design_snackbar_background_color;
+			global::OmniTEditor.Droid.Resource.Color.design_tint_password_toggle = global::DemoOmniTEditor.Droid.Resource.Color.design_tint_password_toggle;
+			global::OmniTEditor.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.dim_foreground_disabled_material_light = global::DemoOmniTEditor.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::OmniTEditor.Droid.Resource.Color.dim_foreground_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.dim_foreground_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.dim_foreground_material_light = global::DemoOmniTEditor.Droid.Resource.Color.dim_foreground_material_light;
+			global::OmniTEditor.Droid.Resource.Color.error_color_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.error_color_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.error_color_material_light = global::DemoOmniTEditor.Droid.Resource.Color.error_color_material_light;
+			global::OmniTEditor.Droid.Resource.Color.foreground_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.foreground_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.foreground_material_light = global::DemoOmniTEditor.Droid.Resource.Color.foreground_material_light;
+			global::OmniTEditor.Droid.Resource.Color.highlighted_text_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.highlighted_text_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.highlighted_text_material_light = global::DemoOmniTEditor.Droid.Resource.Color.highlighted_text_material_light;
+			global::OmniTEditor.Droid.Resource.Color.material_blue_grey_800 = global::DemoOmniTEditor.Droid.Resource.Color.material_blue_grey_800;
+			global::OmniTEditor.Droid.Resource.Color.material_blue_grey_900 = global::DemoOmniTEditor.Droid.Resource.Color.material_blue_grey_900;
+			global::OmniTEditor.Droid.Resource.Color.material_blue_grey_950 = global::DemoOmniTEditor.Droid.Resource.Color.material_blue_grey_950;
+			global::OmniTEditor.Droid.Resource.Color.material_deep_teal_200 = global::DemoOmniTEditor.Droid.Resource.Color.material_deep_teal_200;
+			global::OmniTEditor.Droid.Resource.Color.material_deep_teal_500 = global::DemoOmniTEditor.Droid.Resource.Color.material_deep_teal_500;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_100 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_100;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_300 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_300;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_50 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_50;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_600 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_600;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_800 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_800;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_850 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_850;
+			global::OmniTEditor.Droid.Resource.Color.material_grey_900 = global::DemoOmniTEditor.Droid.Resource.Color.material_grey_900;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_bg_color_disabled = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_ripple_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_text_color_selector = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_chip_background_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_chip_background_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_chip_ripple_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_chip_text_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_chip_text_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_fab_ripple_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_scrim_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_scrim_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_tabs_ripple_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_textinput_disabled_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::OmniTEditor.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::DemoOmniTEditor.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::OmniTEditor.Droid.Resource.Color.notification_action_color_filter = global::DemoOmniTEditor.Droid.Resource.Color.notification_action_color_filter;
+			global::OmniTEditor.Droid.Resource.Color.notification_icon_bg_color = global::DemoOmniTEditor.Droid.Resource.Color.notification_icon_bg_color;
+			global::OmniTEditor.Droid.Resource.Color.notification_material_background_media_default_color = global::DemoOmniTEditor.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::OmniTEditor.Droid.Resource.Color.primary_dark_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.primary_dark_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.primary_dark_material_light = global::DemoOmniTEditor.Droid.Resource.Color.primary_dark_material_light;
+			global::OmniTEditor.Droid.Resource.Color.primary_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.primary_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.primary_material_light = global::DemoOmniTEditor.Droid.Resource.Color.primary_material_light;
+			global::OmniTEditor.Droid.Resource.Color.primary_text_default_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.primary_text_default_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.primary_text_default_material_light = global::DemoOmniTEditor.Droid.Resource.Color.primary_text_default_material_light;
+			global::OmniTEditor.Droid.Resource.Color.primary_text_disabled_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.primary_text_disabled_material_light = global::DemoOmniTEditor.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::OmniTEditor.Droid.Resource.Color.ripple_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.ripple_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.ripple_material_light = global::DemoOmniTEditor.Droid.Resource.Color.ripple_material_light;
+			global::OmniTEditor.Droid.Resource.Color.secondary_text_default_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.secondary_text_default_material_light = global::DemoOmniTEditor.Droid.Resource.Color.secondary_text_default_material_light;
+			global::OmniTEditor.Droid.Resource.Color.secondary_text_disabled_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.secondary_text_disabled_material_light = global::DemoOmniTEditor.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::OmniTEditor.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.switch_thumb_disabled_material_light = global::DemoOmniTEditor.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::OmniTEditor.Droid.Resource.Color.switch_thumb_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.switch_thumb_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.switch_thumb_material_light = global::DemoOmniTEditor.Droid.Resource.Color.switch_thumb_material_light;
+			global::OmniTEditor.Droid.Resource.Color.switch_thumb_normal_material_dark = global::DemoOmniTEditor.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::OmniTEditor.Droid.Resource.Color.switch_thumb_normal_material_light = global::DemoOmniTEditor.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::OmniTEditor.Droid.Resource.Color.tooltip_background_dark = global::DemoOmniTEditor.Droid.Resource.Color.tooltip_background_dark;
+			global::OmniTEditor.Droid.Resource.Color.tooltip_background_light = global::DemoOmniTEditor.Droid.Resource.Color.tooltip_background_light;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_button_min_height_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_button_min_width_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_control_corner_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_control_corner_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_control_inset_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_control_inset_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_control_padding_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_control_padding_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_min_width_major = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_padding_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_floating_window_z = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_floating_window_z;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_panel_menu_list_width = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_progress_bar_height_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_search_view_preferred_height = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_search_view_preferred_width = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_switch_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_switch_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_body_1_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_body_2_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_button_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_caption_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_display_1_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_display_2_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_display_3_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_display_4_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_headline_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_large_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_medium_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_menu_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_small_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_subhead_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_title_material = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::OmniTEditor.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::DemoOmniTEditor.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::OmniTEditor.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::DemoOmniTEditor.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::OmniTEditor.Droid.Resource.Dimension.cardview_default_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.cardview_default_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.cardview_default_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.cardview_default_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_control_corner_material = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_control_corner_material;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::OmniTEditor.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_appbar_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.design_appbar_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_height = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::DemoOmniTEditor.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_border_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_border_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_image_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_image_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_size_mini = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_size_mini;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_size_normal = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_size_normal;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::OmniTEditor.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::DemoOmniTEditor.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_icon_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_icon_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_padding_bottom = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::OmniTEditor.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_min_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::OmniTEditor.Droid.Resource.Dimension.design_snackbar_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_tab_max_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_tab_max_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::DemoOmniTEditor.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::OmniTEditor.Droid.Resource.Dimension.design_tab_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.design_tab_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.design_tab_text_size_2line = global::DemoOmniTEditor.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::OmniTEditor.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::DemoOmniTEditor.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::OmniTEditor.Droid.Resource.Dimension.disabled_alpha_material_dark = global::DemoOmniTEditor.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::OmniTEditor.Droid.Resource.Dimension.disabled_alpha_material_light = global::DemoOmniTEditor.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::OmniTEditor.Droid.Resource.Dimension.fastscroll_default_thickness = global::DemoOmniTEditor.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::OmniTEditor.Droid.Resource.Dimension.fastscroll_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.fastscroll_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.fastscroll_minimum_range = global::DemoOmniTEditor.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::OmniTEditor.Droid.Resource.Dimension.highlight_alpha_material_colored = global::DemoOmniTEditor.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::OmniTEditor.Droid.Resource.Dimension.highlight_alpha_material_dark = global::DemoOmniTEditor.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::OmniTEditor.Droid.Resource.Dimension.highlight_alpha_material_light = global::DemoOmniTEditor.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::OmniTEditor.Droid.Resource.Dimension.hint_alpha_material_dark = global::DemoOmniTEditor.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::OmniTEditor.Droid.Resource.Dimension.hint_alpha_material_light = global::DemoOmniTEditor.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::OmniTEditor.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::DemoOmniTEditor.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::OmniTEditor.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::DemoOmniTEditor.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::OmniTEditor.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::DemoOmniTEditor.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::OmniTEditor.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::DemoOmniTEditor.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::OmniTEditor.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::DemoOmniTEditor.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::OmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height = global::DemoOmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::OmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::DemoOmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::OmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height = global::DemoOmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::OmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::DemoOmniTEditor.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::OmniTEditor.Droid.Resource.Dimension.mr_dialog_fixed_width_major = global::DemoOmniTEditor.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::OmniTEditor.Droid.Resource.Dimension.mr_dialog_fixed_width_minor = global::DemoOmniTEditor.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_focused_z = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_inset = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_left = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_right = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_top = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_btn_z = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_btn_z;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_card_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_card_spacing = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_chip_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_fab_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_navigation_elevation = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_snackbar_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_padding_end = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::DemoOmniTEditor.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_action_icon_size = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_action_icon_size;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_action_text_size = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_action_text_size;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_big_circle_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_content_margin_start = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_content_margin_start;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_large_icon_height = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_large_icon_height;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_large_icon_width = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_large_icon_width;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_main_column_padding_top = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_media_narrow_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_right_icon_size = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_right_icon_size;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_right_side_padding_top = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_small_icon_background_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_subtext_size = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_subtext_size;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_top_pad = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_top_pad;
+			global::OmniTEditor.Droid.Resource.Dimension.notification_top_pad_large_text = global::DemoOmniTEditor.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::OmniTEditor.Droid.Resource.Dimension.subtitle_corner_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.subtitle_outline_width = global::DemoOmniTEditor.Droid.Resource.Dimension.subtitle_outline_width;
+			global::OmniTEditor.Droid.Resource.Dimension.subtitle_shadow_offset = global::DemoOmniTEditor.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::OmniTEditor.Droid.Resource.Dimension.subtitle_shadow_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_corner_radius = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_horizontal_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_margin = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_margin;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_vertical_padding = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::OmniTEditor.Droid.Resource.Dimension.tooltip_y_offset_touch = global::DemoOmniTEditor.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_borderless_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_check_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_check_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_colored_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_radio_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_cab_background_top_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_control_background_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_control_background_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_dialog_material_background = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_edit_text_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_edit_text_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_ab_back_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_clear_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_search_api_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_item_background_holo_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_item_background_holo_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_divider_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_divider_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_focused_holo = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_longpressed_holo = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_list_selector_holo_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ratingbar_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_ratingbar_small_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_seekbar_track_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_switch_thumb_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_tab_indicator_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_cursor_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_textfield_search_material = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::OmniTEditor.Droid.Resource.Drawable.abc_vector_test = global::DemoOmniTEditor.Droid.Resource.Drawable.abc_vector_test;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_hide_password = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_hide_password;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_hide_password_1 = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_hide_password_1;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_hide_password_2 = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_hide_password_2;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_hide_password_3 = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_hide_password_3;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_show_password = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_show_password;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_show_password_1 = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_show_password_1;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_show_password_2 = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_show_password_2;
+			global::OmniTEditor.Droid.Resource.Drawable.avd_show_password_3 = global::DemoOmniTEditor.Droid.Resource.Drawable.avd_show_password_3;
+			global::OmniTEditor.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::DemoOmniTEditor.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::OmniTEditor.Droid.Resource.Drawable.design_fab_background = global::DemoOmniTEditor.Droid.Resource.Drawable.design_fab_background;
+			global::OmniTEditor.Droid.Resource.Drawable.design_ic_visibility = global::DemoOmniTEditor.Droid.Resource.Drawable.design_ic_visibility;
+			global::OmniTEditor.Droid.Resource.Drawable.design_ic_visibility_off = global::DemoOmniTEditor.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::OmniTEditor.Droid.Resource.Drawable.design_password_eye = global::DemoOmniTEditor.Droid.Resource.Drawable.design_password_eye;
+			global::OmniTEditor.Droid.Resource.Drawable.design_snackbar_background = global::DemoOmniTEditor.Droid.Resource.Drawable.design_snackbar_background;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_audiotrack_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_audiotrack_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_dialog_close_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_dialog_close_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_00 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_01 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_02 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_03 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_04 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_05 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_06 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_07 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_08 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_09 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_10 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_11 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_12 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_13 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_14 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_collapse_15 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_00 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_00;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_01 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_01;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_02 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_02;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_03 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_03;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_04 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_04;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_05 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_05;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_06 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_06;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_07 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_07;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_08 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_08;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_09 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_09;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_10 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_10;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_11 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_11;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_12 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_12;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_13 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_13;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_14 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_14;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_group_expand_15 = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_group_expand_15;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_media_pause_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_media_pause_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_media_pause_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_media_play_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_media_play_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_media_play_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_media_play_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_media_stop_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_media_stop_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_media_stop_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_00_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_00_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_01_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_01_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_02_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_02_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_03_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_03_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_04_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_04_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_05_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_05_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_06_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_06_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_07_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_07_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_08_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_08_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_09_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_09_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_10_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_10_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_11_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_11_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_12_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_12_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_13_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_13_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_14_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_14_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_15_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_15_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_16_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_16_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_17_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_17_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_18_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_18_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_19_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_19_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_20_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_20_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_21_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_21_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_22_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_22_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_23_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_23_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_23_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_23_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_24_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_24_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_24_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_24_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_25_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_25_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_25_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_25_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_26_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_26_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_26_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_26_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_27_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_27_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_27_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_27_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_28_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_28_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_28_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_28_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_29_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_29_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_29_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_29_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_30_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_30_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_30_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connected_30_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_00_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_01_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_02_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_03_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_04_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_05_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_06_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_07_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_08_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_09_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_10_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_11_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_12_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_13_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_14_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_15_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_16_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_17_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_18_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_19_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_20_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_21_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_22_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_23_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_23_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_24_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_24_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_25_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_25_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_26_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_26_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_27_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_27_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_28_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_28_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_29_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_29_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_30_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_connecting_30_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_disabled_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_disabled_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_disconnected_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_disconnected_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mr_button_grey = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_group_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_vol_type_tv_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.ic_vol_type_tv_light = global::DemoOmniTEditor.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::OmniTEditor.Droid.Resource.Drawable.MenuDiscard = global::DemoOmniTEditor.Droid.Resource.Drawable.MenuDiscard;
+			global::OmniTEditor.Droid.Resource.Drawable.MenuSave = global::DemoOmniTEditor.Droid.Resource.Drawable.MenuSave;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_button_connected_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_button_connected_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_button_connected_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_button_connecting_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_button_connecting_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_button_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_button_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_button_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_button_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_dialog_close_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_dialog_close_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_dialog_material_background_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_dialog_material_background_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_group_collapse = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_group_collapse;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_group_expand = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_group_expand;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_media_pause_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_media_pause_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_media_pause_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_media_play_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_media_play_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_media_play_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_media_play_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_media_stop_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_media_stop_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_media_stop_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.mr_vol_type_audiotrack_light = global::DemoOmniTEditor.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::OmniTEditor.Droid.Resource.Drawable.mtrl_snackbar_background = global::DemoOmniTEditor.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::OmniTEditor.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::DemoOmniTEditor.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::OmniTEditor.Droid.Resource.Drawable.navigation_empty_icon = global::DemoOmniTEditor.Droid.Resource.Drawable.navigation_empty_icon;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_action_background = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_action_background;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_bg = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_bg;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_bg_low = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_bg_low;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_bg_low_normal = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_bg_low_pressed = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_bg_normal = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_bg_normal;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_bg_normal_pressed = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_icon_background = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_icon_background;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_template_icon_bg = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_template_icon_low_bg = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::OmniTEditor.Droid.Resource.Drawable.notification_tile_bg = global::DemoOmniTEditor.Droid.Resource.Drawable.notification_tile_bg;
+			global::OmniTEditor.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::DemoOmniTEditor.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::OmniTEditor.Droid.Resource.Drawable.tooltip_frame_dark = global::DemoOmniTEditor.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::OmniTEditor.Droid.Resource.Drawable.tooltip_frame_light = global::DemoOmniTEditor.Droid.Resource.Drawable.tooltip_frame_light;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSbgcolor = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSbgcolor;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSbold = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSbold;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSScenterjustify = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSScenterjustify;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSclearstyle = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSclearstyle;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSforcejustify = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSforcejustify;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSh1 = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSh1;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSh2 = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSh2;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSh3 = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSh3;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSh4 = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSh4;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSh5 = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSh5;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSh6 = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSh6;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSShorizontalrule = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSShorizontalrule;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSimage = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSimage;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSindent = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSindent;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSinsertkeyword = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSinsertkeyword;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSitalic = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSitalic;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSkeyboard = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSkeyboard;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSleftjustify = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSleftjustify;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSlink = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSlink;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSorderedlist = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSorderedlist;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSoutdent = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSoutdent;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSparagraph = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSparagraph;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSpicker = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSpicker;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSquicklink = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSquicklink;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSredo = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSredo;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSrightjustify = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSrightjustify;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSstrikethrough = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSstrikethrough;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSsubscript = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSsubscript;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSsuperscript = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSsuperscript;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSStable = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSStable;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSStextcolor = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSStextcolor;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSunderline = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSunderline;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSundo = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSundo;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSunlink = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSunlink;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSunorderedlist = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSunorderedlist;
+			global::OmniTEditor.Droid.Resource.Drawable.ZSSviewsource = global::DemoOmniTEditor.Droid.Resource.Drawable.ZSSviewsource;
+			global::OmniTEditor.Droid.Resource.Id.ALT = global::DemoOmniTEditor.Droid.Resource.Id.ALT;
+			global::OmniTEditor.Droid.Resource.Id.CTRL = global::DemoOmniTEditor.Droid.Resource.Id.CTRL;
+			global::OmniTEditor.Droid.Resource.Id.EditorWebView = global::DemoOmniTEditor.Droid.Resource.Id.EditorWebView;
+			global::OmniTEditor.Droid.Resource.Id.FUNCTION = global::DemoOmniTEditor.Droid.Resource.Id.FUNCTION;
+			global::OmniTEditor.Droid.Resource.Id.META = global::DemoOmniTEditor.Droid.Resource.Id.META;
+			global::OmniTEditor.Droid.Resource.Id.RootRelativeLayout = global::DemoOmniTEditor.Droid.Resource.Id.RootRelativeLayout;
+			global::OmniTEditor.Droid.Resource.Id.SHIFT = global::DemoOmniTEditor.Droid.Resource.Id.SHIFT;
+			global::OmniTEditor.Droid.Resource.Id.SYM = global::DemoOmniTEditor.Droid.Resource.Id.SYM;
+			global::OmniTEditor.Droid.Resource.Id.ToolbarItemsLayout = global::DemoOmniTEditor.Droid.Resource.Id.ToolbarItemsLayout;
+			global::OmniTEditor.Droid.Resource.Id.ToolbarLayout = global::DemoOmniTEditor.Droid.Resource.Id.ToolbarLayout;
+			global::OmniTEditor.Droid.Resource.Id.TopToolbar = global::DemoOmniTEditor.Droid.Resource.Id.TopToolbar;
+			global::OmniTEditor.Droid.Resource.Id.action0 = global::DemoOmniTEditor.Droid.Resource.Id.action0;
+			global::OmniTEditor.Droid.Resource.Id.action_bar = global::DemoOmniTEditor.Droid.Resource.Id.action_bar;
+			global::OmniTEditor.Droid.Resource.Id.action_bar_activity_content = global::DemoOmniTEditor.Droid.Resource.Id.action_bar_activity_content;
+			global::OmniTEditor.Droid.Resource.Id.action_bar_container = global::DemoOmniTEditor.Droid.Resource.Id.action_bar_container;
+			global::OmniTEditor.Droid.Resource.Id.action_bar_root = global::DemoOmniTEditor.Droid.Resource.Id.action_bar_root;
+			global::OmniTEditor.Droid.Resource.Id.action_bar_spinner = global::DemoOmniTEditor.Droid.Resource.Id.action_bar_spinner;
+			global::OmniTEditor.Droid.Resource.Id.action_bar_subtitle = global::DemoOmniTEditor.Droid.Resource.Id.action_bar_subtitle;
+			global::OmniTEditor.Droid.Resource.Id.action_bar_title = global::DemoOmniTEditor.Droid.Resource.Id.action_bar_title;
+			global::OmniTEditor.Droid.Resource.Id.action_container = global::DemoOmniTEditor.Droid.Resource.Id.action_container;
+			global::OmniTEditor.Droid.Resource.Id.action_context_bar = global::DemoOmniTEditor.Droid.Resource.Id.action_context_bar;
+			global::OmniTEditor.Droid.Resource.Id.action_divider = global::DemoOmniTEditor.Droid.Resource.Id.action_divider;
+			global::OmniTEditor.Droid.Resource.Id.action_image = global::DemoOmniTEditor.Droid.Resource.Id.action_image;
+			global::OmniTEditor.Droid.Resource.Id.action_menu_divider = global::DemoOmniTEditor.Droid.Resource.Id.action_menu_divider;
+			global::OmniTEditor.Droid.Resource.Id.action_menu_presenter = global::DemoOmniTEditor.Droid.Resource.Id.action_menu_presenter;
+			global::OmniTEditor.Droid.Resource.Id.action_mode_bar = global::DemoOmniTEditor.Droid.Resource.Id.action_mode_bar;
+			global::OmniTEditor.Droid.Resource.Id.action_mode_bar_stub = global::DemoOmniTEditor.Droid.Resource.Id.action_mode_bar_stub;
+			global::OmniTEditor.Droid.Resource.Id.action_mode_close_button = global::DemoOmniTEditor.Droid.Resource.Id.action_mode_close_button;
+			global::OmniTEditor.Droid.Resource.Id.action_text = global::DemoOmniTEditor.Droid.Resource.Id.action_text;
+			global::OmniTEditor.Droid.Resource.Id.actions = global::DemoOmniTEditor.Droid.Resource.Id.actions;
+			global::OmniTEditor.Droid.Resource.Id.activity_chooser_view_content = global::DemoOmniTEditor.Droid.Resource.Id.activity_chooser_view_content;
+			global::OmniTEditor.Droid.Resource.Id.add = global::DemoOmniTEditor.Droid.Resource.Id.add;
+			global::OmniTEditor.Droid.Resource.Id.alertTitle = global::DemoOmniTEditor.Droid.Resource.Id.alertTitle;
+			global::OmniTEditor.Droid.Resource.Id.all = global::DemoOmniTEditor.Droid.Resource.Id.all;
+			global::OmniTEditor.Droid.Resource.Id.always = global::DemoOmniTEditor.Droid.Resource.Id.always;
+			global::OmniTEditor.Droid.Resource.Id.async = global::DemoOmniTEditor.Droid.Resource.Id.async;
+			global::OmniTEditor.Droid.Resource.Id.auto = global::DemoOmniTEditor.Droid.Resource.Id.auto;
+			global::OmniTEditor.Droid.Resource.Id.beginning = global::DemoOmniTEditor.Droid.Resource.Id.beginning;
+			global::OmniTEditor.Droid.Resource.Id.blocking = global::DemoOmniTEditor.Droid.Resource.Id.blocking;
+			global::OmniTEditor.Droid.Resource.Id.bottom = global::DemoOmniTEditor.Droid.Resource.Id.bottom;
+			global::OmniTEditor.Droid.Resource.Id.bottomtab_navarea = global::DemoOmniTEditor.Droid.Resource.Id.bottomtab_navarea;
+			global::OmniTEditor.Droid.Resource.Id.bottomtab_tabbar = global::DemoOmniTEditor.Droid.Resource.Id.bottomtab_tabbar;
+			global::OmniTEditor.Droid.Resource.Id.browser_actions_header_text = global::DemoOmniTEditor.Droid.Resource.Id.browser_actions_header_text;
+			global::OmniTEditor.Droid.Resource.Id.browser_actions_menu_item_icon = global::DemoOmniTEditor.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::OmniTEditor.Droid.Resource.Id.browser_actions_menu_item_text = global::DemoOmniTEditor.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::OmniTEditor.Droid.Resource.Id.browser_actions_menu_items = global::DemoOmniTEditor.Droid.Resource.Id.browser_actions_menu_items;
+			global::OmniTEditor.Droid.Resource.Id.browser_actions_menu_view = global::DemoOmniTEditor.Droid.Resource.Id.browser_actions_menu_view;
+			global::OmniTEditor.Droid.Resource.Id.buttonPanel = global::DemoOmniTEditor.Droid.Resource.Id.buttonPanel;
+			global::OmniTEditor.Droid.Resource.Id.cancel_action = global::DemoOmniTEditor.Droid.Resource.Id.cancel_action;
+			global::OmniTEditor.Droid.Resource.Id.center = global::DemoOmniTEditor.Droid.Resource.Id.center;
+			global::OmniTEditor.Droid.Resource.Id.center_horizontal = global::DemoOmniTEditor.Droid.Resource.Id.center_horizontal;
+			global::OmniTEditor.Droid.Resource.Id.center_vertical = global::DemoOmniTEditor.Droid.Resource.Id.center_vertical;
+			global::OmniTEditor.Droid.Resource.Id.checkbox = global::DemoOmniTEditor.Droid.Resource.Id.checkbox;
+			global::OmniTEditor.Droid.Resource.Id.chronometer = global::DemoOmniTEditor.Droid.Resource.Id.chronometer;
+			global::OmniTEditor.Droid.Resource.Id.clip_horizontal = global::DemoOmniTEditor.Droid.Resource.Id.clip_horizontal;
+			global::OmniTEditor.Droid.Resource.Id.clip_vertical = global::DemoOmniTEditor.Droid.Resource.Id.clip_vertical;
+			global::OmniTEditor.Droid.Resource.Id.collapseActionView = global::DemoOmniTEditor.Droid.Resource.Id.collapseActionView;
+			global::OmniTEditor.Droid.Resource.Id.color_picker_view = global::DemoOmniTEditor.Droid.Resource.Id.color_picker_view;
+			global::OmniTEditor.Droid.Resource.Id.container = global::DemoOmniTEditor.Droid.Resource.Id.container;
+			global::OmniTEditor.Droid.Resource.Id.content = global::DemoOmniTEditor.Droid.Resource.Id.content;
+			global::OmniTEditor.Droid.Resource.Id.contentPanel = global::DemoOmniTEditor.Droid.Resource.Id.contentPanel;
+			global::OmniTEditor.Droid.Resource.Id.coordinator = global::DemoOmniTEditor.Droid.Resource.Id.coordinator;
+			global::OmniTEditor.Droid.Resource.Id.custom = global::DemoOmniTEditor.Droid.Resource.Id.custom;
+			global::OmniTEditor.Droid.Resource.Id.customPanel = global::DemoOmniTEditor.Droid.Resource.Id.customPanel;
+			global::OmniTEditor.Droid.Resource.Id.decor_content_parent = global::DemoOmniTEditor.Droid.Resource.Id.decor_content_parent;
+			global::OmniTEditor.Droid.Resource.Id.default_activity_button = global::DemoOmniTEditor.Droid.Resource.Id.default_activity_button;
+			global::OmniTEditor.Droid.Resource.Id.design_bottom_sheet = global::DemoOmniTEditor.Droid.Resource.Id.design_bottom_sheet;
+			global::OmniTEditor.Droid.Resource.Id.design_menu_item_action_area = global::DemoOmniTEditor.Droid.Resource.Id.design_menu_item_action_area;
+			global::OmniTEditor.Droid.Resource.Id.design_menu_item_action_area_stub = global::DemoOmniTEditor.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::OmniTEditor.Droid.Resource.Id.design_menu_item_text = global::DemoOmniTEditor.Droid.Resource.Id.design_menu_item_text;
+			global::OmniTEditor.Droid.Resource.Id.design_navigation_view = global::DemoOmniTEditor.Droid.Resource.Id.design_navigation_view;
+			global::OmniTEditor.Droid.Resource.Id.disableHome = global::DemoOmniTEditor.Droid.Resource.Id.disableHome;
+			global::OmniTEditor.Droid.Resource.Id.edit_query = global::DemoOmniTEditor.Droid.Resource.Id.edit_query;
+			global::OmniTEditor.Droid.Resource.Id.end = global::DemoOmniTEditor.Droid.Resource.Id.end;
+			global::OmniTEditor.Droid.Resource.Id.end_padder = global::DemoOmniTEditor.Droid.Resource.Id.end_padder;
+			global::OmniTEditor.Droid.Resource.Id.enterAlways = global::DemoOmniTEditor.Droid.Resource.Id.enterAlways;
+			global::OmniTEditor.Droid.Resource.Id.enterAlwaysCollapsed = global::DemoOmniTEditor.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::OmniTEditor.Droid.Resource.Id.exitUntilCollapsed = global::DemoOmniTEditor.Droid.Resource.Id.exitUntilCollapsed;
+			global::OmniTEditor.Droid.Resource.Id.expand_activities_button = global::DemoOmniTEditor.Droid.Resource.Id.expand_activities_button;
+			global::OmniTEditor.Droid.Resource.Id.expanded_menu = global::DemoOmniTEditor.Droid.Resource.Id.expanded_menu;
+			global::OmniTEditor.Droid.Resource.Id.fill = global::DemoOmniTEditor.Droid.Resource.Id.fill;
+			global::OmniTEditor.Droid.Resource.Id.fill_horizontal = global::DemoOmniTEditor.Droid.Resource.Id.fill_horizontal;
+			global::OmniTEditor.Droid.Resource.Id.fill_vertical = global::DemoOmniTEditor.Droid.Resource.Id.fill_vertical;
+			global::OmniTEditor.Droid.Resource.Id.filled = global::DemoOmniTEditor.Droid.Resource.Id.filled;
+			global::OmniTEditor.Droid.Resource.Id.@fixed = global::DemoOmniTEditor.Droid.Resource.Id.@fixed;
+			global::OmniTEditor.Droid.Resource.Id.flyoutcontent_appbar = global::DemoOmniTEditor.Droid.Resource.Id.flyoutcontent_appbar;
+			global::OmniTEditor.Droid.Resource.Id.flyoutcontent_recycler = global::DemoOmniTEditor.Droid.Resource.Id.flyoutcontent_recycler;
+			global::OmniTEditor.Droid.Resource.Id.forever = global::DemoOmniTEditor.Droid.Resource.Id.forever;
+			global::OmniTEditor.Droid.Resource.Id.ghost_view = global::DemoOmniTEditor.Droid.Resource.Id.ghost_view;
+			global::OmniTEditor.Droid.Resource.Id.group_divider = global::DemoOmniTEditor.Droid.Resource.Id.group_divider;
+			global::OmniTEditor.Droid.Resource.Id.home = global::DemoOmniTEditor.Droid.Resource.Id.home;
+			global::OmniTEditor.Droid.Resource.Id.homeAsUp = global::DemoOmniTEditor.Droid.Resource.Id.homeAsUp;
+			global::OmniTEditor.Droid.Resource.Id.icon = global::DemoOmniTEditor.Droid.Resource.Id.icon;
+			global::OmniTEditor.Droid.Resource.Id.icon_group = global::DemoOmniTEditor.Droid.Resource.Id.icon_group;
+			global::OmniTEditor.Droid.Resource.Id.ifRoom = global::DemoOmniTEditor.Droid.Resource.Id.ifRoom;
+			global::OmniTEditor.Droid.Resource.Id.image = global::DemoOmniTEditor.Droid.Resource.Id.image;
+			global::OmniTEditor.Droid.Resource.Id.info = global::DemoOmniTEditor.Droid.Resource.Id.info;
+			global::OmniTEditor.Droid.Resource.Id.italic = global::DemoOmniTEditor.Droid.Resource.Id.italic;
+			global::OmniTEditor.Droid.Resource.Id.item_touch_helper_previous_elevation = global::DemoOmniTEditor.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::OmniTEditor.Droid.Resource.Id.labeled = global::DemoOmniTEditor.Droid.Resource.Id.labeled;
+			global::OmniTEditor.Droid.Resource.Id.largeLabel = global::DemoOmniTEditor.Droid.Resource.Id.largeLabel;
+			global::OmniTEditor.Droid.Resource.Id.left = global::DemoOmniTEditor.Droid.Resource.Id.left;
+			global::OmniTEditor.Droid.Resource.Id.line1 = global::DemoOmniTEditor.Droid.Resource.Id.line1;
+			global::OmniTEditor.Droid.Resource.Id.line3 = global::DemoOmniTEditor.Droid.Resource.Id.line3;
+			global::OmniTEditor.Droid.Resource.Id.listMode = global::DemoOmniTEditor.Droid.Resource.Id.listMode;
+			global::OmniTEditor.Droid.Resource.Id.list_item = global::DemoOmniTEditor.Droid.Resource.Id.list_item;
+			global::OmniTEditor.Droid.Resource.Id.main_appbar = global::DemoOmniTEditor.Droid.Resource.Id.main_appbar;
+			global::OmniTEditor.Droid.Resource.Id.main_scrollview = global::DemoOmniTEditor.Droid.Resource.Id.main_scrollview;
+			global::OmniTEditor.Droid.Resource.Id.main_tablayout = global::DemoOmniTEditor.Droid.Resource.Id.main_tablayout;
+			global::OmniTEditor.Droid.Resource.Id.main_toolbar = global::DemoOmniTEditor.Droid.Resource.Id.main_toolbar;
+			global::OmniTEditor.Droid.Resource.Id.masked = global::DemoOmniTEditor.Droid.Resource.Id.masked;
+			global::OmniTEditor.Droid.Resource.Id.media_actions = global::DemoOmniTEditor.Droid.Resource.Id.media_actions;
+			global::OmniTEditor.Droid.Resource.Id.menu_cancel = global::DemoOmniTEditor.Droid.Resource.Id.menu_cancel;
+			global::OmniTEditor.Droid.Resource.Id.menu_done = global::DemoOmniTEditor.Droid.Resource.Id.menu_done;
+			global::OmniTEditor.Droid.Resource.Id.message = global::DemoOmniTEditor.Droid.Resource.Id.message;
+			global::OmniTEditor.Droid.Resource.Id.middle = global::DemoOmniTEditor.Droid.Resource.Id.middle;
+			global::OmniTEditor.Droid.Resource.Id.mini = global::DemoOmniTEditor.Droid.Resource.Id.mini;
+			global::OmniTEditor.Droid.Resource.Id.mr_art = global::DemoOmniTEditor.Droid.Resource.Id.mr_art;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_checkbox = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_checkbox;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_close_button = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_close_button;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_group_icon = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_group_icon;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_group_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_group_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_list = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_list;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_meta = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_meta;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_meta_art = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_meta_art;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_meta_subtitle = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_meta_subtitle;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_meta_title = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_meta_title;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_route_icon = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_route_icon;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_route_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_route_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_stop_button = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_stop_button;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_volume_layout = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_volume_layout;
+			global::OmniTEditor.Droid.Resource.Id.mr_cast_volume_slider = global::DemoOmniTEditor.Droid.Resource.Id.mr_cast_volume_slider;
+			global::OmniTEditor.Droid.Resource.Id.mr_chooser_list = global::DemoOmniTEditor.Droid.Resource.Id.mr_chooser_list;
+			global::OmniTEditor.Droid.Resource.Id.mr_chooser_route_desc = global::DemoOmniTEditor.Droid.Resource.Id.mr_chooser_route_desc;
+			global::OmniTEditor.Droid.Resource.Id.mr_chooser_route_icon = global::DemoOmniTEditor.Droid.Resource.Id.mr_chooser_route_icon;
+			global::OmniTEditor.Droid.Resource.Id.mr_chooser_route_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_chooser_route_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_chooser_title = global::DemoOmniTEditor.Droid.Resource.Id.mr_chooser_title;
+			global::OmniTEditor.Droid.Resource.Id.mr_close = global::DemoOmniTEditor.Droid.Resource.Id.mr_close;
+			global::OmniTEditor.Droid.Resource.Id.mr_control_divider = global::DemoOmniTEditor.Droid.Resource.Id.mr_control_divider;
+			global::OmniTEditor.Droid.Resource.Id.mr_control_playback_ctrl = global::DemoOmniTEditor.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::OmniTEditor.Droid.Resource.Id.mr_control_subtitle = global::DemoOmniTEditor.Droid.Resource.Id.mr_control_subtitle;
+			global::OmniTEditor.Droid.Resource.Id.mr_control_title = global::DemoOmniTEditor.Droid.Resource.Id.mr_control_title;
+			global::OmniTEditor.Droid.Resource.Id.mr_control_title_container = global::DemoOmniTEditor.Droid.Resource.Id.mr_control_title_container;
+			global::OmniTEditor.Droid.Resource.Id.mr_custom_control = global::DemoOmniTEditor.Droid.Resource.Id.mr_custom_control;
+			global::OmniTEditor.Droid.Resource.Id.mr_default_control = global::DemoOmniTEditor.Droid.Resource.Id.mr_default_control;
+			global::OmniTEditor.Droid.Resource.Id.mr_dialog_area = global::DemoOmniTEditor.Droid.Resource.Id.mr_dialog_area;
+			global::OmniTEditor.Droid.Resource.Id.mr_dialog_header_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_dialog_header_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_expandable_area = global::DemoOmniTEditor.Droid.Resource.Id.mr_expandable_area;
+			global::OmniTEditor.Droid.Resource.Id.mr_group_expand_collapse = global::DemoOmniTEditor.Droid.Resource.Id.mr_group_expand_collapse;
+			global::OmniTEditor.Droid.Resource.Id.mr_group_volume_route_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_group_volume_route_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_group_volume_slider = global::DemoOmniTEditor.Droid.Resource.Id.mr_group_volume_slider;
+			global::OmniTEditor.Droid.Resource.Id.mr_media_main_control = global::DemoOmniTEditor.Droid.Resource.Id.mr_media_main_control;
+			global::OmniTEditor.Droid.Resource.Id.mr_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_picker_close_button = global::DemoOmniTEditor.Droid.Resource.Id.mr_picker_close_button;
+			global::OmniTEditor.Droid.Resource.Id.mr_picker_list = global::DemoOmniTEditor.Droid.Resource.Id.mr_picker_list;
+			global::OmniTEditor.Droid.Resource.Id.mr_picker_route_icon = global::DemoOmniTEditor.Droid.Resource.Id.mr_picker_route_icon;
+			global::OmniTEditor.Droid.Resource.Id.mr_picker_route_name = global::DemoOmniTEditor.Droid.Resource.Id.mr_picker_route_name;
+			global::OmniTEditor.Droid.Resource.Id.mr_playback_control = global::DemoOmniTEditor.Droid.Resource.Id.mr_playback_control;
+			global::OmniTEditor.Droid.Resource.Id.mr_title_bar = global::DemoOmniTEditor.Droid.Resource.Id.mr_title_bar;
+			global::OmniTEditor.Droid.Resource.Id.mr_volume_control = global::DemoOmniTEditor.Droid.Resource.Id.mr_volume_control;
+			global::OmniTEditor.Droid.Resource.Id.mr_volume_group_list = global::DemoOmniTEditor.Droid.Resource.Id.mr_volume_group_list;
+			global::OmniTEditor.Droid.Resource.Id.mr_volume_item_icon = global::DemoOmniTEditor.Droid.Resource.Id.mr_volume_item_icon;
+			global::OmniTEditor.Droid.Resource.Id.mr_volume_slider = global::DemoOmniTEditor.Droid.Resource.Id.mr_volume_slider;
+			global::OmniTEditor.Droid.Resource.Id.mtrl_child_content_container = global::DemoOmniTEditor.Droid.Resource.Id.mtrl_child_content_container;
+			global::OmniTEditor.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::DemoOmniTEditor.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::OmniTEditor.Droid.Resource.Id.multiply = global::DemoOmniTEditor.Droid.Resource.Id.multiply;
+			global::OmniTEditor.Droid.Resource.Id.navigation_header_container = global::DemoOmniTEditor.Droid.Resource.Id.navigation_header_container;
+			global::OmniTEditor.Droid.Resource.Id.never = global::DemoOmniTEditor.Droid.Resource.Id.never;
+			global::OmniTEditor.Droid.Resource.Id.new_color_panel = global::DemoOmniTEditor.Droid.Resource.Id.new_color_panel;
+			global::OmniTEditor.Droid.Resource.Id.none = global::DemoOmniTEditor.Droid.Resource.Id.none;
+			global::OmniTEditor.Droid.Resource.Id.normal = global::DemoOmniTEditor.Droid.Resource.Id.normal;
+			global::OmniTEditor.Droid.Resource.Id.notification_background = global::DemoOmniTEditor.Droid.Resource.Id.notification_background;
+			global::OmniTEditor.Droid.Resource.Id.notification_main_column = global::DemoOmniTEditor.Droid.Resource.Id.notification_main_column;
+			global::OmniTEditor.Droid.Resource.Id.notification_main_column_container = global::DemoOmniTEditor.Droid.Resource.Id.notification_main_column_container;
+			global::OmniTEditor.Droid.Resource.Id.old_color_panel = global::DemoOmniTEditor.Droid.Resource.Id.old_color_panel;
+			global::OmniTEditor.Droid.Resource.Id.outline = global::DemoOmniTEditor.Droid.Resource.Id.outline;
+			global::OmniTEditor.Droid.Resource.Id.parallax = global::DemoOmniTEditor.Droid.Resource.Id.parallax;
+			global::OmniTEditor.Droid.Resource.Id.parentPanel = global::DemoOmniTEditor.Droid.Resource.Id.parentPanel;
+			global::OmniTEditor.Droid.Resource.Id.parent_matrix = global::DemoOmniTEditor.Droid.Resource.Id.parent_matrix;
+			global::OmniTEditor.Droid.Resource.Id.pin = global::DemoOmniTEditor.Droid.Resource.Id.pin;
+			global::OmniTEditor.Droid.Resource.Id.progress_circular = global::DemoOmniTEditor.Droid.Resource.Id.progress_circular;
+			global::OmniTEditor.Droid.Resource.Id.progress_horizontal = global::DemoOmniTEditor.Droid.Resource.Id.progress_horizontal;
+			global::OmniTEditor.Droid.Resource.Id.radio = global::DemoOmniTEditor.Droid.Resource.Id.radio;
+			global::OmniTEditor.Droid.Resource.Id.right = global::DemoOmniTEditor.Droid.Resource.Id.right;
+			global::OmniTEditor.Droid.Resource.Id.right_icon = global::DemoOmniTEditor.Droid.Resource.Id.right_icon;
+			global::OmniTEditor.Droid.Resource.Id.right_side = global::DemoOmniTEditor.Droid.Resource.Id.right_side;
+			global::OmniTEditor.Droid.Resource.Id.save_image_matrix = global::DemoOmniTEditor.Droid.Resource.Id.save_image_matrix;
+			global::OmniTEditor.Droid.Resource.Id.save_non_transition_alpha = global::DemoOmniTEditor.Droid.Resource.Id.save_non_transition_alpha;
+			global::OmniTEditor.Droid.Resource.Id.save_scale_type = global::DemoOmniTEditor.Droid.Resource.Id.save_scale_type;
+			global::OmniTEditor.Droid.Resource.Id.screen = global::DemoOmniTEditor.Droid.Resource.Id.screen;
+			global::OmniTEditor.Droid.Resource.Id.scroll = global::DemoOmniTEditor.Droid.Resource.Id.scroll;
+			global::OmniTEditor.Droid.Resource.Id.scrollIndicatorDown = global::DemoOmniTEditor.Droid.Resource.Id.scrollIndicatorDown;
+			global::OmniTEditor.Droid.Resource.Id.scrollIndicatorUp = global::DemoOmniTEditor.Droid.Resource.Id.scrollIndicatorUp;
+			global::OmniTEditor.Droid.Resource.Id.scrollView = global::DemoOmniTEditor.Droid.Resource.Id.scrollView;
+			global::OmniTEditor.Droid.Resource.Id.scrollable = global::DemoOmniTEditor.Droid.Resource.Id.scrollable;
+			global::OmniTEditor.Droid.Resource.Id.search_badge = global::DemoOmniTEditor.Droid.Resource.Id.search_badge;
+			global::OmniTEditor.Droid.Resource.Id.search_bar = global::DemoOmniTEditor.Droid.Resource.Id.search_bar;
+			global::OmniTEditor.Droid.Resource.Id.search_button = global::DemoOmniTEditor.Droid.Resource.Id.search_button;
+			global::OmniTEditor.Droid.Resource.Id.search_close_btn = global::DemoOmniTEditor.Droid.Resource.Id.search_close_btn;
+			global::OmniTEditor.Droid.Resource.Id.search_edit_frame = global::DemoOmniTEditor.Droid.Resource.Id.search_edit_frame;
+			global::OmniTEditor.Droid.Resource.Id.search_go_btn = global::DemoOmniTEditor.Droid.Resource.Id.search_go_btn;
+			global::OmniTEditor.Droid.Resource.Id.search_mag_icon = global::DemoOmniTEditor.Droid.Resource.Id.search_mag_icon;
+			global::OmniTEditor.Droid.Resource.Id.search_plate = global::DemoOmniTEditor.Droid.Resource.Id.search_plate;
+			global::OmniTEditor.Droid.Resource.Id.search_src_text = global::DemoOmniTEditor.Droid.Resource.Id.search_src_text;
+			global::OmniTEditor.Droid.Resource.Id.search_voice_btn = global::DemoOmniTEditor.Droid.Resource.Id.search_voice_btn;
+			global::OmniTEditor.Droid.Resource.Id.select_dialog_listview = global::DemoOmniTEditor.Droid.Resource.Id.select_dialog_listview;
+			global::OmniTEditor.Droid.Resource.Id.selected = global::DemoOmniTEditor.Droid.Resource.Id.selected;
+			global::OmniTEditor.Droid.Resource.Id.shellcontent_appbar = global::DemoOmniTEditor.Droid.Resource.Id.shellcontent_appbar;
+			global::OmniTEditor.Droid.Resource.Id.shellcontent_scrollview = global::DemoOmniTEditor.Droid.Resource.Id.shellcontent_scrollview;
+			global::OmniTEditor.Droid.Resource.Id.shellcontent_toolbar = global::DemoOmniTEditor.Droid.Resource.Id.shellcontent_toolbar;
+			global::OmniTEditor.Droid.Resource.Id.shortcut = global::DemoOmniTEditor.Droid.Resource.Id.shortcut;
+			global::OmniTEditor.Droid.Resource.Id.showCustom = global::DemoOmniTEditor.Droid.Resource.Id.showCustom;
+			global::OmniTEditor.Droid.Resource.Id.showHome = global::DemoOmniTEditor.Droid.Resource.Id.showHome;
+			global::OmniTEditor.Droid.Resource.Id.showTitle = global::DemoOmniTEditor.Droid.Resource.Id.showTitle;
+			global::OmniTEditor.Droid.Resource.Id.smallLabel = global::DemoOmniTEditor.Droid.Resource.Id.smallLabel;
+			global::OmniTEditor.Droid.Resource.Id.snackbar_action = global::DemoOmniTEditor.Droid.Resource.Id.snackbar_action;
+			global::OmniTEditor.Droid.Resource.Id.snackbar_text = global::DemoOmniTEditor.Droid.Resource.Id.snackbar_text;
+			global::OmniTEditor.Droid.Resource.Id.snap = global::DemoOmniTEditor.Droid.Resource.Id.snap;
+			global::OmniTEditor.Droid.Resource.Id.snapMargins = global::DemoOmniTEditor.Droid.Resource.Id.snapMargins;
+			global::OmniTEditor.Droid.Resource.Id.spacer = global::DemoOmniTEditor.Droid.Resource.Id.spacer;
+			global::OmniTEditor.Droid.Resource.Id.split_action_bar = global::DemoOmniTEditor.Droid.Resource.Id.split_action_bar;
+			global::OmniTEditor.Droid.Resource.Id.src_atop = global::DemoOmniTEditor.Droid.Resource.Id.src_atop;
+			global::OmniTEditor.Droid.Resource.Id.src_in = global::DemoOmniTEditor.Droid.Resource.Id.src_in;
+			global::OmniTEditor.Droid.Resource.Id.src_over = global::DemoOmniTEditor.Droid.Resource.Id.src_over;
+			global::OmniTEditor.Droid.Resource.Id.start = global::DemoOmniTEditor.Droid.Resource.Id.start;
+			global::OmniTEditor.Droid.Resource.Id.status_bar_latest_event_content = global::DemoOmniTEditor.Droid.Resource.Id.status_bar_latest_event_content;
+			global::OmniTEditor.Droid.Resource.Id.stretch = global::DemoOmniTEditor.Droid.Resource.Id.stretch;
+			global::OmniTEditor.Droid.Resource.Id.submenuarrow = global::DemoOmniTEditor.Droid.Resource.Id.submenuarrow;
+			global::OmniTEditor.Droid.Resource.Id.submit_area = global::DemoOmniTEditor.Droid.Resource.Id.submit_area;
+			global::OmniTEditor.Droid.Resource.Id.tabMode = global::DemoOmniTEditor.Droid.Resource.Id.tabMode;
+			global::OmniTEditor.Droid.Resource.Id.tag_transition_group = global::DemoOmniTEditor.Droid.Resource.Id.tag_transition_group;
+			global::OmniTEditor.Droid.Resource.Id.tag_unhandled_key_event_manager = global::DemoOmniTEditor.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::OmniTEditor.Droid.Resource.Id.tag_unhandled_key_listeners = global::DemoOmniTEditor.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::OmniTEditor.Droid.Resource.Id.text = global::DemoOmniTEditor.Droid.Resource.Id.text;
+			global::OmniTEditor.Droid.Resource.Id.text2 = global::DemoOmniTEditor.Droid.Resource.Id.text2;
+			global::OmniTEditor.Droid.Resource.Id.textSpacerNoButtons = global::DemoOmniTEditor.Droid.Resource.Id.textSpacerNoButtons;
+			global::OmniTEditor.Droid.Resource.Id.textSpacerNoTitle = global::DemoOmniTEditor.Droid.Resource.Id.textSpacerNoTitle;
+			global::OmniTEditor.Droid.Resource.Id.textStart = global::DemoOmniTEditor.Droid.Resource.Id.textStart;
+			global::OmniTEditor.Droid.Resource.Id.text_input_password_toggle = global::DemoOmniTEditor.Droid.Resource.Id.text_input_password_toggle;
+			global::OmniTEditor.Droid.Resource.Id.textinput_counter = global::DemoOmniTEditor.Droid.Resource.Id.textinput_counter;
+			global::OmniTEditor.Droid.Resource.Id.textinput_error = global::DemoOmniTEditor.Droid.Resource.Id.textinput_error;
+			global::OmniTEditor.Droid.Resource.Id.textinput_helper_text = global::DemoOmniTEditor.Droid.Resource.Id.textinput_helper_text;
+			global::OmniTEditor.Droid.Resource.Id.time = global::DemoOmniTEditor.Droid.Resource.Id.time;
+			global::OmniTEditor.Droid.Resource.Id.title = global::DemoOmniTEditor.Droid.Resource.Id.title;
+			global::OmniTEditor.Droid.Resource.Id.titleDividerNoCustom = global::DemoOmniTEditor.Droid.Resource.Id.titleDividerNoCustom;
+			global::OmniTEditor.Droid.Resource.Id.title_template = global::DemoOmniTEditor.Droid.Resource.Id.title_template;
+			global::OmniTEditor.Droid.Resource.Id.top = global::DemoOmniTEditor.Droid.Resource.Id.top;
+			global::OmniTEditor.Droid.Resource.Id.topPanel = global::DemoOmniTEditor.Droid.Resource.Id.topPanel;
+			global::OmniTEditor.Droid.Resource.Id.touch_outside = global::DemoOmniTEditor.Droid.Resource.Id.touch_outside;
+			global::OmniTEditor.Droid.Resource.Id.transition_current_scene = global::DemoOmniTEditor.Droid.Resource.Id.transition_current_scene;
+			global::OmniTEditor.Droid.Resource.Id.transition_layout_save = global::DemoOmniTEditor.Droid.Resource.Id.transition_layout_save;
+			global::OmniTEditor.Droid.Resource.Id.transition_position = global::DemoOmniTEditor.Droid.Resource.Id.transition_position;
+			global::OmniTEditor.Droid.Resource.Id.transition_scene_layoutid_cache = global::DemoOmniTEditor.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::OmniTEditor.Droid.Resource.Id.transition_transform = global::DemoOmniTEditor.Droid.Resource.Id.transition_transform;
+			global::OmniTEditor.Droid.Resource.Id.uniform = global::DemoOmniTEditor.Droid.Resource.Id.uniform;
+			global::OmniTEditor.Droid.Resource.Id.unlabeled = global::DemoOmniTEditor.Droid.Resource.Id.unlabeled;
+			global::OmniTEditor.Droid.Resource.Id.up = global::DemoOmniTEditor.Droid.Resource.Id.up;
+			global::OmniTEditor.Droid.Resource.Id.useLogo = global::DemoOmniTEditor.Droid.Resource.Id.useLogo;
+			global::OmniTEditor.Droid.Resource.Id.view_offset_helper = global::DemoOmniTEditor.Droid.Resource.Id.view_offset_helper;
+			global::OmniTEditor.Droid.Resource.Id.visible = global::DemoOmniTEditor.Droid.Resource.Id.visible;
+			global::OmniTEditor.Droid.Resource.Id.volume_item_container = global::DemoOmniTEditor.Droid.Resource.Id.volume_item_container;
+			global::OmniTEditor.Droid.Resource.Id.withText = global::DemoOmniTEditor.Droid.Resource.Id.withText;
+			global::OmniTEditor.Droid.Resource.Id.wrap_content = global::DemoOmniTEditor.Droid.Resource.Id.wrap_content;
+			global::OmniTEditor.Droid.Resource.Integer.abc_config_activityDefaultDur = global::DemoOmniTEditor.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::OmniTEditor.Droid.Resource.Integer.abc_config_activityShortDur = global::DemoOmniTEditor.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::OmniTEditor.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::DemoOmniTEditor.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::OmniTEditor.Droid.Resource.Integer.bottom_sheet_slide_duration = global::DemoOmniTEditor.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::OmniTEditor.Droid.Resource.Integer.cancel_button_image_alpha = global::DemoOmniTEditor.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::OmniTEditor.Droid.Resource.Integer.config_tooltipAnimTime = global::DemoOmniTEditor.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::OmniTEditor.Droid.Resource.Integer.design_snackbar_text_max_lines = global::DemoOmniTEditor.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::OmniTEditor.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::DemoOmniTEditor.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::OmniTEditor.Droid.Resource.Integer.hide_password_duration = global::DemoOmniTEditor.Droid.Resource.Integer.hide_password_duration;
+			global::OmniTEditor.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::OmniTEditor.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::OmniTEditor.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::OmniTEditor.Droid.Resource.Integer.mr_update_routes_delay_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mr_update_routes_delay_ms;
+			global::OmniTEditor.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::OmniTEditor.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::OmniTEditor.Droid.Resource.Integer.mtrl_chip_anim_duration = global::DemoOmniTEditor.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::OmniTEditor.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::DemoOmniTEditor.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::OmniTEditor.Droid.Resource.Integer.show_password_duration = global::DemoOmniTEditor.Droid.Resource.Integer.show_password_duration;
+			global::OmniTEditor.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::DemoOmniTEditor.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::OmniTEditor.Droid.Resource.Interpolator.mr_fast_out_slow_in = global::DemoOmniTEditor.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::OmniTEditor.Droid.Resource.Interpolator.mr_linear_out_slow_in = global::DemoOmniTEditor.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::OmniTEditor.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::DemoOmniTEditor.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::OmniTEditor.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::DemoOmniTEditor.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::OmniTEditor.Droid.Resource.Interpolator.mtrl_linear = global::DemoOmniTEditor.Droid.Resource.Interpolator.mtrl_linear;
+			global::OmniTEditor.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::DemoOmniTEditor.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::OmniTEditor.Droid.Resource.Layout.abc_action_bar_title_item = global::DemoOmniTEditor.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::OmniTEditor.Droid.Resource.Layout.abc_action_bar_up_container = global::DemoOmniTEditor.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::OmniTEditor.Droid.Resource.Layout.abc_action_menu_item_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_action_menu_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_action_menu_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_action_mode_bar = global::DemoOmniTEditor.Droid.Resource.Layout.abc_action_mode_bar;
+			global::OmniTEditor.Droid.Resource.Layout.abc_action_mode_close_item_material = global::DemoOmniTEditor.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::OmniTEditor.Droid.Resource.Layout.abc_activity_chooser_view = global::DemoOmniTEditor.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::OmniTEditor.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::DemoOmniTEditor.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::OmniTEditor.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::DemoOmniTEditor.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::OmniTEditor.Droid.Resource.Layout.abc_alert_dialog_material = global::DemoOmniTEditor.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::OmniTEditor.Droid.Resource.Layout.abc_alert_dialog_title_material = global::DemoOmniTEditor.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::OmniTEditor.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_dialog_title_material = global::DemoOmniTEditor.Droid.Resource.Layout.abc_dialog_title_material;
+			global::OmniTEditor.Droid.Resource.Layout.abc_expanded_menu_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::DemoOmniTEditor.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::OmniTEditor.Droid.Resource.Layout.abc_list_menu_item_icon = global::DemoOmniTEditor.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::OmniTEditor.Droid.Resource.Layout.abc_list_menu_item_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_list_menu_item_radio = global::DemoOmniTEditor.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::OmniTEditor.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_popup_menu_item_layout = global::DemoOmniTEditor.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::OmniTEditor.Droid.Resource.Layout.abc_screen_content_include = global::DemoOmniTEditor.Droid.Resource.Layout.abc_screen_content_include;
+			global::OmniTEditor.Droid.Resource.Layout.abc_screen_simple = global::DemoOmniTEditor.Droid.Resource.Layout.abc_screen_simple;
+			global::OmniTEditor.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::DemoOmniTEditor.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::OmniTEditor.Droid.Resource.Layout.abc_screen_toolbar = global::DemoOmniTEditor.Droid.Resource.Layout.abc_screen_toolbar;
+			global::OmniTEditor.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::DemoOmniTEditor.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::OmniTEditor.Droid.Resource.Layout.abc_search_view = global::DemoOmniTEditor.Droid.Resource.Layout.abc_search_view;
+			global::OmniTEditor.Droid.Resource.Layout.abc_select_dialog_material = global::DemoOmniTEditor.Droid.Resource.Layout.abc_select_dialog_material;
+			global::OmniTEditor.Droid.Resource.Layout.abc_tooltip = global::DemoOmniTEditor.Droid.Resource.Layout.abc_tooltip;
+			global::OmniTEditor.Droid.Resource.Layout.BottomTabLayout = global::DemoOmniTEditor.Droid.Resource.Layout.BottomTabLayout;
+			global::OmniTEditor.Droid.Resource.Layout.browser_actions_context_menu_page = global::DemoOmniTEditor.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::OmniTEditor.Droid.Resource.Layout.browser_actions_context_menu_row = global::DemoOmniTEditor.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::OmniTEditor.Droid.Resource.Layout.design_bottom_navigation_item = global::DemoOmniTEditor.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::OmniTEditor.Droid.Resource.Layout.design_bottom_sheet_dialog = global::DemoOmniTEditor.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::OmniTEditor.Droid.Resource.Layout.design_layout_snackbar = global::DemoOmniTEditor.Droid.Resource.Layout.design_layout_snackbar;
+			global::OmniTEditor.Droid.Resource.Layout.design_layout_snackbar_include = global::DemoOmniTEditor.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::OmniTEditor.Droid.Resource.Layout.design_layout_tab_icon = global::DemoOmniTEditor.Droid.Resource.Layout.design_layout_tab_icon;
+			global::OmniTEditor.Droid.Resource.Layout.design_layout_tab_text = global::DemoOmniTEditor.Droid.Resource.Layout.design_layout_tab_text;
+			global::OmniTEditor.Droid.Resource.Layout.design_menu_item_action_area = global::DemoOmniTEditor.Droid.Resource.Layout.design_menu_item_action_area;
+			global::OmniTEditor.Droid.Resource.Layout.design_navigation_item = global::DemoOmniTEditor.Droid.Resource.Layout.design_navigation_item;
+			global::OmniTEditor.Droid.Resource.Layout.design_navigation_item_header = global::DemoOmniTEditor.Droid.Resource.Layout.design_navigation_item_header;
+			global::OmniTEditor.Droid.Resource.Layout.design_navigation_item_separator = global::DemoOmniTEditor.Droid.Resource.Layout.design_navigation_item_separator;
+			global::OmniTEditor.Droid.Resource.Layout.design_navigation_item_subheader = global::DemoOmniTEditor.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::OmniTEditor.Droid.Resource.Layout.design_navigation_menu = global::DemoOmniTEditor.Droid.Resource.Layout.design_navigation_menu;
+			global::OmniTEditor.Droid.Resource.Layout.design_navigation_menu_item = global::DemoOmniTEditor.Droid.Resource.Layout.design_navigation_menu_item;
+			global::OmniTEditor.Droid.Resource.Layout.design_text_input_password_icon = global::DemoOmniTEditor.Droid.Resource.Layout.design_text_input_password_icon;
+			global::OmniTEditor.Droid.Resource.Layout.dialog_color_picker = global::DemoOmniTEditor.Droid.Resource.Layout.dialog_color_picker;
+			global::OmniTEditor.Droid.Resource.Layout.FlyoutContent = global::DemoOmniTEditor.Droid.Resource.Layout.FlyoutContent;
+			global::OmniTEditor.Droid.Resource.Layout.mr_cast_dialog = global::DemoOmniTEditor.Droid.Resource.Layout.mr_cast_dialog;
+			global::OmniTEditor.Droid.Resource.Layout.mr_cast_group_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_cast_group_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_cast_group_volume_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_cast_group_volume_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_cast_media_metadata = global::DemoOmniTEditor.Droid.Resource.Layout.mr_cast_media_metadata;
+			global::OmniTEditor.Droid.Resource.Layout.mr_cast_route_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_cast_route_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_chooser_dialog = global::DemoOmniTEditor.Droid.Resource.Layout.mr_chooser_dialog;
+			global::OmniTEditor.Droid.Resource.Layout.mr_chooser_list_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_chooser_list_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_controller_material_dialog_b = global::DemoOmniTEditor.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::OmniTEditor.Droid.Resource.Layout.mr_controller_volume_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_controller_volume_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_dialog_header_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_dialog_header_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_picker_dialog = global::DemoOmniTEditor.Droid.Resource.Layout.mr_picker_dialog;
+			global::OmniTEditor.Droid.Resource.Layout.mr_picker_route_item = global::DemoOmniTEditor.Droid.Resource.Layout.mr_picker_route_item;
+			global::OmniTEditor.Droid.Resource.Layout.mr_playback_control = global::DemoOmniTEditor.Droid.Resource.Layout.mr_playback_control;
+			global::OmniTEditor.Droid.Resource.Layout.mr_volume_control = global::DemoOmniTEditor.Droid.Resource.Layout.mr_volume_control;
+			global::OmniTEditor.Droid.Resource.Layout.mtrl_layout_snackbar = global::DemoOmniTEditor.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::OmniTEditor.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::DemoOmniTEditor.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::OmniTEditor.Droid.Resource.Layout.notification_action = global::DemoOmniTEditor.Droid.Resource.Layout.notification_action;
+			global::OmniTEditor.Droid.Resource.Layout.notification_action_tombstone = global::DemoOmniTEditor.Droid.Resource.Layout.notification_action_tombstone;
+			global::OmniTEditor.Droid.Resource.Layout.notification_media_action = global::DemoOmniTEditor.Droid.Resource.Layout.notification_media_action;
+			global::OmniTEditor.Droid.Resource.Layout.notification_media_cancel_action = global::DemoOmniTEditor.Droid.Resource.Layout.notification_media_cancel_action;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_big_media = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_big_media;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_big_media_custom = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_big_media_narrow = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_custom_big = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_custom_big;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_icon_group = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_icon_group;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_lines_media = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_lines_media;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_media = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_media;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_media_custom = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_media_custom;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_part_chronometer = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::OmniTEditor.Droid.Resource.Layout.notification_template_part_time = global::DemoOmniTEditor.Droid.Resource.Layout.notification_template_part_time;
+			global::OmniTEditor.Droid.Resource.Layout.RootLayout = global::DemoOmniTEditor.Droid.Resource.Layout.RootLayout;
+			global::OmniTEditor.Droid.Resource.Layout.select_dialog_item_material = global::DemoOmniTEditor.Droid.Resource.Layout.select_dialog_item_material;
+			global::OmniTEditor.Droid.Resource.Layout.select_dialog_multichoice_material = global::DemoOmniTEditor.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::OmniTEditor.Droid.Resource.Layout.select_dialog_singlechoice_material = global::DemoOmniTEditor.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::OmniTEditor.Droid.Resource.Layout.ShellContent = global::DemoOmniTEditor.Droid.Resource.Layout.ShellContent;
+			global::OmniTEditor.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::DemoOmniTEditor.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::OmniTEditor.Droid.Resource.Layout.TEditorActivity = global::DemoOmniTEditor.Droid.Resource.Layout.TEditorActivity;
+			global::OmniTEditor.Droid.Resource.Menu.TopToolbarMenu = global::DemoOmniTEditor.Droid.Resource.Menu.TopToolbarMenu;
+			global::OmniTEditor.Droid.Resource.String.abc_action_bar_home_description = global::DemoOmniTEditor.Droid.Resource.String.abc_action_bar_home_description;
+			global::OmniTEditor.Droid.Resource.String.abc_action_bar_up_description = global::DemoOmniTEditor.Droid.Resource.String.abc_action_bar_up_description;
+			global::OmniTEditor.Droid.Resource.String.abc_action_menu_overflow_description = global::DemoOmniTEditor.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::OmniTEditor.Droid.Resource.String.abc_action_mode_done = global::DemoOmniTEditor.Droid.Resource.String.abc_action_mode_done;
+			global::OmniTEditor.Droid.Resource.String.abc_activity_chooser_view_see_all = global::DemoOmniTEditor.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::OmniTEditor.Droid.Resource.String.abc_activitychooserview_choose_application = global::DemoOmniTEditor.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::OmniTEditor.Droid.Resource.String.abc_capital_off = global::DemoOmniTEditor.Droid.Resource.String.abc_capital_off;
+			global::OmniTEditor.Droid.Resource.String.abc_capital_on = global::DemoOmniTEditor.Droid.Resource.String.abc_capital_on;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_body_1_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_body_1_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_body_2_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_body_2_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_button_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_button_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_caption_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_caption_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_display_1_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_display_1_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_display_2_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_display_2_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_display_3_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_display_3_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_display_4_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_display_4_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_headline_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_headline_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_menu_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_menu_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_subhead_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_subhead_material;
+			global::OmniTEditor.Droid.Resource.String.abc_font_family_title_material = global::DemoOmniTEditor.Droid.Resource.String.abc_font_family_title_material;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_alt_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_delete_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_enter_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_function_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_meta_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_shift_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_space_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_menu_sym_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_prepend_shortcut_label = global::DemoOmniTEditor.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::OmniTEditor.Droid.Resource.String.abc_search_hint = global::DemoOmniTEditor.Droid.Resource.String.abc_search_hint;
+			global::OmniTEditor.Droid.Resource.String.abc_searchview_description_clear = global::DemoOmniTEditor.Droid.Resource.String.abc_searchview_description_clear;
+			global::OmniTEditor.Droid.Resource.String.abc_searchview_description_query = global::DemoOmniTEditor.Droid.Resource.String.abc_searchview_description_query;
+			global::OmniTEditor.Droid.Resource.String.abc_searchview_description_search = global::DemoOmniTEditor.Droid.Resource.String.abc_searchview_description_search;
+			global::OmniTEditor.Droid.Resource.String.abc_searchview_description_submit = global::DemoOmniTEditor.Droid.Resource.String.abc_searchview_description_submit;
+			global::OmniTEditor.Droid.Resource.String.abc_searchview_description_voice = global::DemoOmniTEditor.Droid.Resource.String.abc_searchview_description_voice;
+			global::OmniTEditor.Droid.Resource.String.abc_shareactionprovider_share_with = global::DemoOmniTEditor.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::OmniTEditor.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::DemoOmniTEditor.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::OmniTEditor.Droid.Resource.String.abc_toolbar_collapse_description = global::DemoOmniTEditor.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::OmniTEditor.Droid.Resource.String.appbar_scrolling_view_behavior = global::DemoOmniTEditor.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::OmniTEditor.Droid.Resource.String.bottom_sheet_behavior = global::DemoOmniTEditor.Droid.Resource.String.bottom_sheet_behavior;
+			global::OmniTEditor.Droid.Resource.String.button_color_picker_alpha = global::DemoOmniTEditor.Droid.Resource.String.button_color_picker_alpha;
+			global::OmniTEditor.Droid.Resource.String.button_color_picker_noalpha = global::DemoOmniTEditor.Droid.Resource.String.button_color_picker_noalpha;
+			global::OmniTEditor.Droid.Resource.String.button_color_picker_round = global::DemoOmniTEditor.Droid.Resource.String.button_color_picker_round;
+			global::OmniTEditor.Droid.Resource.String.character_counter_content_description = global::DemoOmniTEditor.Droid.Resource.String.character_counter_content_description;
+			global::OmniTEditor.Droid.Resource.String.character_counter_pattern = global::DemoOmniTEditor.Droid.Resource.String.character_counter_pattern;
+			global::OmniTEditor.Droid.Resource.String.dialog_color_picker = global::DemoOmniTEditor.Droid.Resource.String.dialog_color_picker;
+			global::OmniTEditor.Droid.Resource.String.fab_transformation_scrim_behavior = global::DemoOmniTEditor.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::OmniTEditor.Droid.Resource.String.fab_transformation_sheet_behavior = global::DemoOmniTEditor.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::OmniTEditor.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::DemoOmniTEditor.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::OmniTEditor.Droid.Resource.String.library_name = global::DemoOmniTEditor.Droid.Resource.String.library_name;
+			global::OmniTEditor.Droid.Resource.String.mr_button_content_description = global::DemoOmniTEditor.Droid.Resource.String.mr_button_content_description;
+			global::OmniTEditor.Droid.Resource.String.mr_cast_button_connected = global::DemoOmniTEditor.Droid.Resource.String.mr_cast_button_connected;
+			global::OmniTEditor.Droid.Resource.String.mr_cast_button_connecting = global::DemoOmniTEditor.Droid.Resource.String.mr_cast_button_connecting;
+			global::OmniTEditor.Droid.Resource.String.mr_cast_button_disconnected = global::DemoOmniTEditor.Droid.Resource.String.mr_cast_button_disconnected;
+			global::OmniTEditor.Droid.Resource.String.mr_cast_dialog_title_view_placeholder = global::DemoOmniTEditor.Droid.Resource.String.mr_cast_dialog_title_view_placeholder;
+			global::OmniTEditor.Droid.Resource.String.mr_chooser_searching = global::DemoOmniTEditor.Droid.Resource.String.mr_chooser_searching;
+			global::OmniTEditor.Droid.Resource.String.mr_chooser_title = global::DemoOmniTEditor.Droid.Resource.String.mr_chooser_title;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_album_art = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_album_art;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_casting_screen = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_casting_screen;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_close_description = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_close_description;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_collapse_group = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_collapse_group;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_disconnect = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_disconnect;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_expand_group = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_expand_group;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_no_info_available = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_no_info_available;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_no_media_selected = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_no_media_selected;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_pause = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_pause;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_play = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_play;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_stop = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_stop;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_stop_casting = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_stop_casting;
+			global::OmniTEditor.Droid.Resource.String.mr_controller_volume_slider = global::DemoOmniTEditor.Droid.Resource.String.mr_controller_volume_slider;
+			global::OmniTEditor.Droid.Resource.String.mr_dialog_device_header = global::DemoOmniTEditor.Droid.Resource.String.mr_dialog_device_header;
+			global::OmniTEditor.Droid.Resource.String.mr_dialog_route_header = global::DemoOmniTEditor.Droid.Resource.String.mr_dialog_route_header;
+			global::OmniTEditor.Droid.Resource.String.mr_system_route_name = global::DemoOmniTEditor.Droid.Resource.String.mr_system_route_name;
+			global::OmniTEditor.Droid.Resource.String.mr_user_route_category_name = global::DemoOmniTEditor.Droid.Resource.String.mr_user_route_category_name;
+			global::OmniTEditor.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::DemoOmniTEditor.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::OmniTEditor.Droid.Resource.String.password_toggle_content_description = global::DemoOmniTEditor.Droid.Resource.String.password_toggle_content_description;
+			global::OmniTEditor.Droid.Resource.String.path_password_eye = global::DemoOmniTEditor.Droid.Resource.String.path_password_eye;
+			global::OmniTEditor.Droid.Resource.String.path_password_eye_mask_strike_through = global::DemoOmniTEditor.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::OmniTEditor.Droid.Resource.String.path_password_eye_mask_visible = global::DemoOmniTEditor.Droid.Resource.String.path_password_eye_mask_visible;
+			global::OmniTEditor.Droid.Resource.String.path_password_strike_through = global::DemoOmniTEditor.Droid.Resource.String.path_password_strike_through;
+			global::OmniTEditor.Droid.Resource.String.press_color_to_apply = global::DemoOmniTEditor.Droid.Resource.String.press_color_to_apply;
+			global::OmniTEditor.Droid.Resource.String.search_menu_title = global::DemoOmniTEditor.Droid.Resource.String.search_menu_title;
+			global::OmniTEditor.Droid.Resource.String.status_bar_notification_info_overflow = global::DemoOmniTEditor.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::OmniTEditor.Droid.Resource.Style.AlertDialog_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Animation_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::DemoOmniTEditor.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::OmniTEditor.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::DemoOmniTEditor.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::OmniTEditor.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::DemoOmniTEditor.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::DemoOmniTEditor.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::OmniTEditor.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::DemoOmniTEditor.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::OmniTEditor.Droid.Resource.Style.Base_CardView = global::DemoOmniTEditor.Droid.Resource.Style.Base_CardView;
+			global::OmniTEditor.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::DemoOmniTEditor.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::DemoOmniTEditor.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::OmniTEditor.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::OmniTEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::DemoOmniTEditor.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::OmniTEditor.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::DemoOmniTEditor.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::OmniTEditor.Droid.Resource.Style.CardView = global::DemoOmniTEditor.Droid.Resource.Style.CardView;
+			global::OmniTEditor.Droid.Resource.Style.CardView_Dark = global::DemoOmniTEditor.Droid.Resource.Style.CardView_Dark;
+			global::OmniTEditor.Droid.Resource.Style.CardView_Light = global::DemoOmniTEditor.Droid.Resource.Style.CardView_Light;
+			global::OmniTEditor.Droid.Resource.Style.Platform_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Platform_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Platform_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Platform_MaterialComponents = global::DemoOmniTEditor.Droid.Resource.Style.Platform_MaterialComponents;
+			global::OmniTEditor.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Platform_MaterialComponents_Light = global::DemoOmniTEditor.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::OmniTEditor.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::DemoOmniTEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::OmniTEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Platform_V21_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Platform_V25_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::DemoOmniTEditor.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::OmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::DemoOmniTEditor.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::OmniTEditor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::DemoOmniTEditor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::OmniTEditor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_Counter = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_Error = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_HelperText = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_Hint = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Design_Tab = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_MediaRouter_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::OmniTEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::DemoOmniTEditor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_AppCompat_NoActionBar_FullScreen = global::DemoOmniTEditor.Droid.Resource.Style.Theme_AppCompat_NoActionBar_FullScreen;
+			global::OmniTEditor.Droid.Resource.Style.Theme_Design = global::DemoOmniTEditor.Droid.Resource.Style.Theme_Design;
+			global::OmniTEditor.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_Design_Light = global::DemoOmniTEditor.Droid.Resource.Style.Theme_Design_Light;
+			global::OmniTEditor.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_Design_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MediaRouter = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MediaRouter;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MediaRouter_Light = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::OmniTEditor.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel = global::DemoOmniTEditor.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::OmniTEditor.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light = global::DemoOmniTEditor.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_EditText = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_SearchView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::DemoOmniTEditor.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_AppBarLayout = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_NavigationView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_Snackbar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_TabLayout = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Design_TextInputLayout = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::DemoOmniTEditor.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::OmniTEditor.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::DemoOmniTEditor.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_background = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_background;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_displayOptions = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_divider = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_divider;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_elevation = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_elevation;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_height = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_height;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_homeLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_icon = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_icon;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_itemPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_logo = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_logo;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_navigationMode = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_popupTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_subtitle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_title = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_title;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBarLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBarLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMenuItemView = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMenuItemView;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMenuView = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMenuView;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode_background = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode_background;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode_height = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode_height;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.ActivityChooserView = global::DemoOmniTEditor.Droid.Resource.Styleable.ActivityChooserView;
+			global::OmniTEditor.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::DemoOmniTEditor.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_android_layout = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_listLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_showTitle = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::OmniTEditor.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::OmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::DemoOmniTEditor.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_android_background = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_elevation = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_expanded = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::OmniTEditor.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::DemoOmniTEditor.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatImageView = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatImageView;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatImageView_android_src = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatImageView_tint = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorError = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::OmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::DemoOmniTEditor.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_elevation = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomNavigationView_menu = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::DemoOmniTEditor.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::OmniTEditor.Droid.Resource.Styleable.ButtonBarLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ButtonBarLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::DemoOmniTEditor.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_android_minHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_android_minWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_cardCornerRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_cardElevation = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_cardElevation;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_cardMaxElevation = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_contentPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_contentPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingRight = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::OmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingTop = global::DemoOmniTEditor.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_android_checkable = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_android_checkable;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_android_ellipsize = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_android_maxWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_android_text = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_android_text;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_android_textAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_checkedIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_checkedIconVisible = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipCornerRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipEndPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipIconEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipIconSize = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipIconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipIconVisible = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipMinHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipStartPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipStrokeColor = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIconEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIconSize = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_closeIconVisible = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_hideMotionSpec = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_iconEndPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_iconStartPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_rippleColor = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_rippleColor;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_showMotionSpec = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_textEndPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.Chip_textStartPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup_checkedChip = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup_singleLine = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::OmniTEditor.Droid.Resource.Styleable.ChipGroup_singleSelection = global::DemoOmniTEditor.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::OmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::DemoOmniTEditor.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::OmniTEditor.Droid.Resource.Styleable.ColorStateListItem = global::DemoOmniTEditor.Droid.Resource.Styleable.ColorStateListItem;
+			global::OmniTEditor.Droid.Resource.Styleable.ColorStateListItem_alpha = global::DemoOmniTEditor.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::OmniTEditor.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::DemoOmniTEditor.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::OmniTEditor.Droid.Resource.Styleable.ColorStateListItem_android_color = global::DemoOmniTEditor.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::OmniTEditor.Droid.Resource.Styleable.CompoundButton = global::DemoOmniTEditor.Droid.Resource.Styleable.CompoundButton;
+			global::OmniTEditor.Droid.Resource.Styleable.CompoundButton_android_button = global::DemoOmniTEditor.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::OmniTEditor.Droid.Resource.Styleable.CompoundButton_buttonTint = global::DemoOmniTEditor.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::OmniTEditor.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::OmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::DemoOmniTEditor.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::OmniTEditor.Droid.Resource.Styleable.DesignTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.DesignTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_color = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::OmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::DemoOmniTEditor.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_elevation = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::DemoOmniTEditor.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::OmniTEditor.Droid.Resource.Styleable.FlowLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.FlowLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::DemoOmniTEditor.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::OmniTEditor.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::DemoOmniTEditor.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_font = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_font = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::OmniTEditor.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::DemoOmniTEditor.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::OmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::DemoOmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::OmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::DemoOmniTEditor.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_centerColor = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_centerX = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_centerY = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_endColor = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_endX = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_endY = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_startColor = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_startX = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_startY = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_tileMode = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColor_android_type = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColor_android_type;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColorItem = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColorItem;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColorItem_android_color = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::OmniTEditor.Droid.Resource.Styleable.GradientColorItem_android_offset = global::DemoOmniTEditor.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::OmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::DemoOmniTEditor.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::OmniTEditor.Droid.Resource.Styleable.ListPopupWindow = global::DemoOmniTEditor.Droid.Resource.Styleable.ListPopupWindow;
+			global::OmniTEditor.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::DemoOmniTEditor.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::OmniTEditor.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::DemoOmniTEditor.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_icon = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_icon;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_iconGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_iconPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_iconSize = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_iconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_rippleColor = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_strokeColor = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialCardView = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialCardView;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::OmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MediaRouteButton = global::DemoOmniTEditor.Droid.Resource.Styleable.MediaRouteButton;
+			global::OmniTEditor.Droid.Resource.Styleable.MediaRouteButton_android_minHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.MediaRouteButton_android_minWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint = global::DemoOmniTEditor.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup_android_enabled = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup_android_id = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuGroup_android_visible = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_actionLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_actionViewClass = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_checkable = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_checked = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_enabled = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_icon = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_id = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_id;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_onClick = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_title = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_title;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_android_visible = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_contentDescription = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_iconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_iconTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_numericModifiers = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_showAsAction = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuItem_tooltipText = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_headerBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_itemBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::OmniTEditor.Droid.Resource.Styleable.MenuView_subMenuArrow = global::DemoOmniTEditor.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_android_background = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_android_background;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_elevation = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_elevation;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_headerLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_itemBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_itemIconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_itemTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.NavigationView_menu = global::DemoOmniTEditor.Droid.Resource.Styleable.NavigationView_menu;
+			global::OmniTEditor.Droid.Resource.Styleable.PopupWindow = global::DemoOmniTEditor.Droid.Resource.Styleable.PopupWindow;
+			global::OmniTEditor.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::DemoOmniTEditor.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::OmniTEditor.Droid.Resource.Styleable.PopupWindowBackgroundState = global::DemoOmniTEditor.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::OmniTEditor.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::DemoOmniTEditor.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::OmniTEditor.Droid.Resource.Styleable.RecycleListView = global::DemoOmniTEditor.Droid.Resource.Styleable.RecycleListView;
+			global::OmniTEditor.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::DemoOmniTEditor.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::OmniTEditor.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::DemoOmniTEditor.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_android_orientation = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_layoutManager = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_spanCount = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::OmniTEditor.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::DemoOmniTEditor.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::OmniTEditor.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::DemoOmniTEditor.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::OmniTEditor.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::DemoOmniTEditor.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_android_focusable = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_android_imeOptions = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_android_inputType = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_android_maxWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_closeIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_commitIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_goIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_goIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_layout = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_layout;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_queryBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_queryHint = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_queryHint;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_searchHintIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_searchIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_submitBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.SearchView_voiceIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.Snackbar = global::DemoOmniTEditor.Droid.Resource.Styleable.Snackbar;
+			global::OmniTEditor.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.SnackbarLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.SnackbarLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.SnackbarLayout_elevation = global::DemoOmniTEditor.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::OmniTEditor.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.Spinner = global::DemoOmniTEditor.Droid.Resource.Styleable.Spinner;
+			global::OmniTEditor.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.Spinner_android_entries = global::DemoOmniTEditor.Droid.Resource.Styleable.Spinner_android_entries;
+			global::OmniTEditor.Droid.Resource.Styleable.Spinner_android_popupBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.Spinner_android_prompt = global::DemoOmniTEditor.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::OmniTEditor.Droid.Resource.Styleable.Spinner_popupTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_dither = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_visible = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawableItem = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawableItem;
+			global::OmniTEditor.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::DemoOmniTEditor.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_showText = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_track = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_track;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_trackTint = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::OmniTEditor.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.TabItem = global::DemoOmniTEditor.Droid.Resource.Styleable.TabItem;
+			global::OmniTEditor.Droid.Resource.Styleable.TabItem_android_icon = global::DemoOmniTEditor.Droid.Resource.Styleable.TabItem_android_icon;
+			global::OmniTEditor.Droid.Resource.Styleable.TabItem_android_layout = global::DemoOmniTEditor.Droid.Resource.Styleable.TabItem_android_layout;
+			global::OmniTEditor.Droid.Resource.Styleable.TabItem_android_text = global::DemoOmniTEditor.Droid.Resource.Styleable.TabItem_android_text;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabBackground = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabContentStart = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIconTint = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicator = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabMode = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabPadding = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::DemoOmniTEditor.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textSize = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_android_typeface = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_fontFamily = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::OmniTEditor.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::DemoOmniTEditor.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_android_hint = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_helperText = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::OmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.ThemeEnforcement = global::DemoOmniTEditor.Droid.Resource.Styleable.ThemeEnforcement;
+			global::OmniTEditor.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_android_gravity = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_android_minHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_buttonGravity = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_collapseIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_logo = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_logo;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_logoDescription = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_navigationIcon = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_popupTheme = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_subtitle = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_title = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_title;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleMargin = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleMargins = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::OmniTEditor.Droid.Resource.Styleable.Toolbar_titleTextColor = global::DemoOmniTEditor.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::OmniTEditor.Droid.Resource.Styleable.View = global::DemoOmniTEditor.Droid.Resource.Styleable.View;
+			global::OmniTEditor.Droid.Resource.Styleable.View_android_focusable = global::DemoOmniTEditor.Droid.Resource.Styleable.View_android_focusable;
+			global::OmniTEditor.Droid.Resource.Styleable.View_android_theme = global::DemoOmniTEditor.Droid.Resource.Styleable.View_android_theme;
+			global::OmniTEditor.Droid.Resource.Styleable.View_paddingEnd = global::DemoOmniTEditor.Droid.Resource.Styleable.View_paddingEnd;
+			global::OmniTEditor.Droid.Resource.Styleable.View_paddingStart = global::DemoOmniTEditor.Droid.Resource.Styleable.View_paddingStart;
+			global::OmniTEditor.Droid.Resource.Styleable.View_theme = global::DemoOmniTEditor.Droid.Resource.Styleable.View_theme;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewStubCompat = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewStubCompat;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewStubCompat_android_id = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::OmniTEditor.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::DemoOmniTEditor.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::DemoOmniTEditor.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::DemoOmniTEditor.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::DemoOmniTEditor.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -5596,26 +8559,26 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f020054
 			public const int avd_hide_password = 2130837588;
 			
-			// aapt resource value: 0x7f020135
-			public const int avd_hide_password_1 = 2130837813;
+			// aapt resource value: 0x7f02015b
+			public const int avd_hide_password_1 = 2130837851;
 			
-			// aapt resource value: 0x7f020136
-			public const int avd_hide_password_2 = 2130837814;
+			// aapt resource value: 0x7f02015c
+			public const int avd_hide_password_2 = 2130837852;
 			
-			// aapt resource value: 0x7f020137
-			public const int avd_hide_password_3 = 2130837815;
+			// aapt resource value: 0x7f02015d
+			public const int avd_hide_password_3 = 2130837853;
 			
 			// aapt resource value: 0x7f020055
 			public const int avd_show_password = 2130837589;
 			
-			// aapt resource value: 0x7f020138
-			public const int avd_show_password_1 = 2130837816;
+			// aapt resource value: 0x7f02015e
+			public const int avd_show_password_1 = 2130837854;
 			
-			// aapt resource value: 0x7f020139
-			public const int avd_show_password_2 = 2130837817;
+			// aapt resource value: 0x7f02015f
+			public const int avd_show_password_2 = 2130837855;
 			
-			// aapt resource value: 0x7f02013a
-			public const int avd_show_password_3 = 2130837818;
+			// aapt resource value: 0x7f020160
+			public const int avd_show_password_3 = 2130837856;
 			
 			// aapt resource value: 0x7f020056
 			public const int design_bottom_navigation_item_background = 2130837590;
@@ -6176,115 +9139,229 @@ namespace DemoOmniTEditor.Droid
 			public const int ic_vol_type_tv_light = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int mr_button_connected_dark = 2130837776;
+			public const int MenuDiscard = 2130837776;
 			
 			// aapt resource value: 0x7f020111
-			public const int mr_button_connected_light = 2130837777;
+			public const int MenuSave = 2130837777;
 			
 			// aapt resource value: 0x7f020112
-			public const int mr_button_connecting_dark = 2130837778;
+			public const int mr_button_connected_dark = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int mr_button_connecting_light = 2130837779;
+			public const int mr_button_connected_light = 2130837779;
 			
 			// aapt resource value: 0x7f020114
-			public const int mr_button_dark = 2130837780;
+			public const int mr_button_connecting_dark = 2130837780;
 			
 			// aapt resource value: 0x7f020115
-			public const int mr_button_light = 2130837781;
+			public const int mr_button_connecting_light = 2130837781;
 			
 			// aapt resource value: 0x7f020116
-			public const int mr_dialog_close_dark = 2130837782;
+			public const int mr_button_dark = 2130837782;
 			
 			// aapt resource value: 0x7f020117
-			public const int mr_dialog_close_light = 2130837783;
+			public const int mr_button_light = 2130837783;
 			
 			// aapt resource value: 0x7f020118
-			public const int mr_dialog_material_background_dark = 2130837784;
+			public const int mr_dialog_close_dark = 2130837784;
 			
 			// aapt resource value: 0x7f020119
-			public const int mr_dialog_material_background_light = 2130837785;
+			public const int mr_dialog_close_light = 2130837785;
 			
 			// aapt resource value: 0x7f02011a
-			public const int mr_group_collapse = 2130837786;
+			public const int mr_dialog_material_background_dark = 2130837786;
 			
 			// aapt resource value: 0x7f02011b
-			public const int mr_group_expand = 2130837787;
+			public const int mr_dialog_material_background_light = 2130837787;
 			
 			// aapt resource value: 0x7f02011c
-			public const int mr_media_pause_dark = 2130837788;
+			public const int mr_group_collapse = 2130837788;
 			
 			// aapt resource value: 0x7f02011d
-			public const int mr_media_pause_light = 2130837789;
+			public const int mr_group_expand = 2130837789;
 			
 			// aapt resource value: 0x7f02011e
-			public const int mr_media_play_dark = 2130837790;
+			public const int mr_media_pause_dark = 2130837790;
 			
 			// aapt resource value: 0x7f02011f
-			public const int mr_media_play_light = 2130837791;
+			public const int mr_media_pause_light = 2130837791;
 			
 			// aapt resource value: 0x7f020120
-			public const int mr_media_stop_dark = 2130837792;
+			public const int mr_media_play_dark = 2130837792;
 			
 			// aapt resource value: 0x7f020121
-			public const int mr_media_stop_light = 2130837793;
+			public const int mr_media_play_light = 2130837793;
 			
 			// aapt resource value: 0x7f020122
-			public const int mr_vol_type_audiotrack_dark = 2130837794;
+			public const int mr_media_stop_dark = 2130837794;
 			
 			// aapt resource value: 0x7f020123
-			public const int mr_vol_type_audiotrack_light = 2130837795;
+			public const int mr_media_stop_light = 2130837795;
 			
 			// aapt resource value: 0x7f020124
-			public const int mtrl_snackbar_background = 2130837796;
+			public const int mr_vol_type_audiotrack_dark = 2130837796;
 			
 			// aapt resource value: 0x7f020125
-			public const int mtrl_tabs_default_indicator = 2130837797;
+			public const int mr_vol_type_audiotrack_light = 2130837797;
 			
 			// aapt resource value: 0x7f020126
-			public const int navigation_empty_icon = 2130837798;
+			public const int mtrl_snackbar_background = 2130837798;
 			
 			// aapt resource value: 0x7f020127
-			public const int notification_action_background = 2130837799;
+			public const int mtrl_tabs_default_indicator = 2130837799;
 			
 			// aapt resource value: 0x7f020128
-			public const int notification_bg = 2130837800;
+			public const int navigation_empty_icon = 2130837800;
 			
 			// aapt resource value: 0x7f020129
-			public const int notification_bg_low = 2130837801;
+			public const int notification_action_background = 2130837801;
 			
 			// aapt resource value: 0x7f02012a
-			public const int notification_bg_low_normal = 2130837802;
+			public const int notification_bg = 2130837802;
 			
 			// aapt resource value: 0x7f02012b
-			public const int notification_bg_low_pressed = 2130837803;
+			public const int notification_bg_low = 2130837803;
 			
 			// aapt resource value: 0x7f02012c
-			public const int notification_bg_normal = 2130837804;
+			public const int notification_bg_low_normal = 2130837804;
 			
 			// aapt resource value: 0x7f02012d
-			public const int notification_bg_normal_pressed = 2130837805;
+			public const int notification_bg_low_pressed = 2130837805;
 			
 			// aapt resource value: 0x7f02012e
-			public const int notification_icon_background = 2130837806;
-			
-			// aapt resource value: 0x7f020133
-			public const int notification_template_icon_bg = 2130837811;
-			
-			// aapt resource value: 0x7f020134
-			public const int notification_template_icon_low_bg = 2130837812;
+			public const int notification_bg_normal = 2130837806;
 			
 			// aapt resource value: 0x7f02012f
-			public const int notification_tile_bg = 2130837807;
+			public const int notification_bg_normal_pressed = 2130837807;
 			
 			// aapt resource value: 0x7f020130
-			public const int notify_panel_notification_icon_bg = 2130837808;
+			public const int notification_icon_background = 2130837808;
+			
+			// aapt resource value: 0x7f020159
+			public const int notification_template_icon_bg = 2130837849;
+			
+			// aapt resource value: 0x7f02015a
+			public const int notification_template_icon_low_bg = 2130837850;
 			
 			// aapt resource value: 0x7f020131
-			public const int tooltip_frame_dark = 2130837809;
+			public const int notification_tile_bg = 2130837809;
 			
 			// aapt resource value: 0x7f020132
-			public const int tooltip_frame_light = 2130837810;
+			public const int notify_panel_notification_icon_bg = 2130837810;
+			
+			// aapt resource value: 0x7f020133
+			public const int tooltip_frame_dark = 2130837811;
+			
+			// aapt resource value: 0x7f020134
+			public const int tooltip_frame_light = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int ZSSbgcolor = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int ZSSbold = 2130837814;
+			
+			// aapt resource value: 0x7f020137
+			public const int ZSScenterjustify = 2130837815;
+			
+			// aapt resource value: 0x7f020138
+			public const int ZSSclearstyle = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int ZSSforcejustify = 2130837817;
+			
+			// aapt resource value: 0x7f02013a
+			public const int ZSSh1 = 2130837818;
+			
+			// aapt resource value: 0x7f02013b
+			public const int ZSSh2 = 2130837819;
+			
+			// aapt resource value: 0x7f02013c
+			public const int ZSSh3 = 2130837820;
+			
+			// aapt resource value: 0x7f02013d
+			public const int ZSSh4 = 2130837821;
+			
+			// aapt resource value: 0x7f02013e
+			public const int ZSSh5 = 2130837822;
+			
+			// aapt resource value: 0x7f02013f
+			public const int ZSSh6 = 2130837823;
+			
+			// aapt resource value: 0x7f020140
+			public const int ZSShorizontalrule = 2130837824;
+			
+			// aapt resource value: 0x7f020141
+			public const int ZSSimage = 2130837825;
+			
+			// aapt resource value: 0x7f020142
+			public const int ZSSindent = 2130837826;
+			
+			// aapt resource value: 0x7f020143
+			public const int ZSSinsertkeyword = 2130837827;
+			
+			// aapt resource value: 0x7f020144
+			public const int ZSSitalic = 2130837828;
+			
+			// aapt resource value: 0x7f020145
+			public const int ZSSkeyboard = 2130837829;
+			
+			// aapt resource value: 0x7f020146
+			public const int ZSSleftjustify = 2130837830;
+			
+			// aapt resource value: 0x7f020147
+			public const int ZSSlink = 2130837831;
+			
+			// aapt resource value: 0x7f020148
+			public const int ZSSorderedlist = 2130837832;
+			
+			// aapt resource value: 0x7f020149
+			public const int ZSSoutdent = 2130837833;
+			
+			// aapt resource value: 0x7f02014a
+			public const int ZSSparagraph = 2130837834;
+			
+			// aapt resource value: 0x7f02014b
+			public const int ZSSpicker = 2130837835;
+			
+			// aapt resource value: 0x7f02014c
+			public const int ZSSquicklink = 2130837836;
+			
+			// aapt resource value: 0x7f02014d
+			public const int ZSSredo = 2130837837;
+			
+			// aapt resource value: 0x7f02014e
+			public const int ZSSrightjustify = 2130837838;
+			
+			// aapt resource value: 0x7f02014f
+			public const int ZSSstrikethrough = 2130837839;
+			
+			// aapt resource value: 0x7f020150
+			public const int ZSSsubscript = 2130837840;
+			
+			// aapt resource value: 0x7f020151
+			public const int ZSSsuperscript = 2130837841;
+			
+			// aapt resource value: 0x7f020152
+			public const int ZSStable = 2130837842;
+			
+			// aapt resource value: 0x7f020153
+			public const int ZSStextcolor = 2130837843;
+			
+			// aapt resource value: 0x7f020154
+			public const int ZSSunderline = 2130837844;
+			
+			// aapt resource value: 0x7f020155
+			public const int ZSSundo = 2130837845;
+			
+			// aapt resource value: 0x7f020156
+			public const int ZSSunlink = 2130837846;
+			
+			// aapt resource value: 0x7f020157
+			public const int ZSSunorderedlist = 2130837847;
+			
+			// aapt resource value: 0x7f020158
+			public const int ZSSviewsource = 2130837848;
 			
 			static Drawable()
 			{
@@ -6305,11 +9382,17 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09003a
 			public const int CTRL = 2131296314;
 			
+			// aapt resource value: 0x7f090101
+			public const int EditorWebView = 2131296513;
+			
 			// aapt resource value: 0x7f09003b
 			public const int FUNCTION = 2131296315;
 			
 			// aapt resource value: 0x7f09003c
 			public const int META = 2131296316;
+			
+			// aapt resource value: 0x7f0900ff
+			public const int RootRelativeLayout = 2131296511;
 			
 			// aapt resource value: 0x7f09003d
 			public const int SHIFT = 2131296317;
@@ -6317,8 +9400,17 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09003e
 			public const int SYM = 2131296318;
 			
-			// aapt resource value: 0x7f0900e4
-			public const int action0 = 2131296484;
+			// aapt resource value: 0x7f090103
+			public const int ToolbarItemsLayout = 2131296515;
+			
+			// aapt resource value: 0x7f090102
+			public const int ToolbarLayout = 2131296514;
+			
+			// aapt resource value: 0x7f090100
+			public const int TopToolbar = 2131296512;
+			
+			// aapt resource value: 0x7f0900e7
+			public const int action0 = 2131296487;
 			
 			// aapt resource value: 0x7f09008d
 			public const int action_bar = 2131296397;
@@ -6341,17 +9433,17 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090069
 			public const int action_bar_title = 2131296361;
 			
-			// aapt resource value: 0x7f0900e1
-			public const int action_container = 2131296481;
+			// aapt resource value: 0x7f0900e4
+			public const int action_container = 2131296484;
 			
 			// aapt resource value: 0x7f09008e
 			public const int action_context_bar = 2131296398;
 			
-			// aapt resource value: 0x7f0900e8
-			public const int action_divider = 2131296488;
+			// aapt resource value: 0x7f0900eb
+			public const int action_divider = 2131296491;
 			
-			// aapt resource value: 0x7f0900e2
-			public const int action_image = 2131296482;
+			// aapt resource value: 0x7f0900e5
+			public const int action_image = 2131296485;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -6368,11 +9460,11 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09006b
 			public const int action_mode_close_button = 2131296363;
 			
-			// aapt resource value: 0x7f0900e3
-			public const int action_text = 2131296483;
+			// aapt resource value: 0x7f0900e6
+			public const int action_text = 2131296486;
 			
-			// aapt resource value: 0x7f0900f1
-			public const int actions = 2131296497;
+			// aapt resource value: 0x7f0900f4
+			public const int actions = 2131296500;
 			
 			// aapt resource value: 0x7f09006c
 			public const int activity_chooser_view_content = 2131296364;
@@ -6428,8 +9520,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090072
 			public const int buttonPanel = 2131296370;
 			
-			// aapt resource value: 0x7f0900e5
-			public const int cancel_action = 2131296485;
+			// aapt resource value: 0x7f0900e8
+			public const int cancel_action = 2131296488;
 			
 			// aapt resource value: 0x7f09004c
 			public const int center = 2131296332;
@@ -6443,8 +9535,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090086
 			public const int checkbox = 2131296390;
 			
-			// aapt resource value: 0x7f0900ed
-			public const int chronometer = 2131296493;
+			// aapt resource value: 0x7f0900f0
+			public const int chronometer = 2131296496;
 			
 			// aapt resource value: 0x7f090061
 			public const int clip_horizontal = 2131296353;
@@ -6454,6 +9546,9 @@ namespace DemoOmniTEditor.Droid
 			
 			// aapt resource value: 0x7f090040
 			public const int collapseActionView = 2131296320;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int color_picker_view = 2131296432;
 			
 			// aapt resource value: 0x7f0900a6
 			public const int container = 2131296422;
@@ -6503,8 +9598,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090037
 			public const int end = 2131296311;
 			
-			// aapt resource value: 0x7f0900f3
-			public const int end_padder = 2131296499;
+			// aapt resource value: 0x7f0900f6
+			public const int end_padder = 2131296502;
 			
 			// aapt resource value: 0x7f090046
 			public const int enterAlways = 2131296326;
@@ -6536,11 +9631,11 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09005c
 			public const int @fixed = 2131296348;
 			
-			// aapt resource value: 0x7f0900b0
-			public const int flyoutcontent_appbar = 2131296432;
+			// aapt resource value: 0x7f0900b3
+			public const int flyoutcontent_appbar = 2131296435;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int flyoutcontent_recycler = 2131296433;
+			// aapt resource value: 0x7f0900b4
+			public const int flyoutcontent_recycler = 2131296436;
 			
 			// aapt resource value: 0x7f090067
 			public const int forever = 2131296359;
@@ -6560,8 +9655,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090071
 			public const int icon = 2131296369;
 			
-			// aapt resource value: 0x7f0900f2
-			public const int icon_group = 2131296498;
+			// aapt resource value: 0x7f0900f5
+			public const int icon_group = 2131296501;
 			
 			// aapt resource value: 0x7f090041
 			public const int ifRoom = 2131296321;
@@ -6569,8 +9664,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09006e
 			public const int image = 2131296366;
 			
-			// aapt resource value: 0x7f0900ee
-			public const int info = 2131296494;
+			// aapt resource value: 0x7f0900f1
+			public const int info = 2131296497;
 			
 			// aapt resource value: 0x7f090068
 			public const int italic = 2131296360;
@@ -6599,23 +9694,29 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090070
 			public const int list_item = 2131296368;
 			
-			// aapt resource value: 0x7f0900f4
-			public const int main_appbar = 2131296500;
-			
 			// aapt resource value: 0x7f0900f7
-			public const int main_scrollview = 2131296503;
+			public const int main_appbar = 2131296503;
 			
-			// aapt resource value: 0x7f0900f6
-			public const int main_tablayout = 2131296502;
+			// aapt resource value: 0x7f0900fa
+			public const int main_scrollview = 2131296506;
 			
-			// aapt resource value: 0x7f0900f5
-			public const int main_toolbar = 2131296501;
+			// aapt resource value: 0x7f0900f9
+			public const int main_tablayout = 2131296505;
 			
-			// aapt resource value: 0x7f0900fe
-			public const int masked = 2131296510;
+			// aapt resource value: 0x7f0900f8
+			public const int main_toolbar = 2131296504;
 			
-			// aapt resource value: 0x7f0900e7
-			public const int media_actions = 2131296487;
+			// aapt resource value: 0x7f090106
+			public const int masked = 2131296518;
+			
+			// aapt resource value: 0x7f0900ea
+			public const int media_actions = 2131296490;
+			
+			// aapt resource value: 0x7f090107
+			public const int menu_cancel = 2131296519;
+			
+			// aapt resource value: 0x7f090108
+			public const int menu_done = 2131296520;
 			
 			// aapt resource value: 0x7f09009c
 			public const int message = 2131296412;
@@ -6626,143 +9727,143 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090059
 			public const int mini = 2131296345;
 			
-			// aapt resource value: 0x7f0900ce
-			public const int mr_art = 2131296462;
-			
-			// aapt resource value: 0x7f0900bf
-			public const int mr_cast_checkbox = 2131296447;
-			
-			// aapt resource value: 0x7f0900b8
-			public const int mr_cast_close_button = 2131296440;
-			
-			// aapt resource value: 0x7f0900b3
-			public const int mr_cast_group_icon = 2131296435;
-			
-			// aapt resource value: 0x7f0900b4
-			public const int mr_cast_group_name = 2131296436;
-			
-			// aapt resource value: 0x7f0900b2
-			public const int mr_cast_list = 2131296434;
-			
-			// aapt resource value: 0x7f0900b7
-			public const int mr_cast_meta = 2131296439;
-			
-			// aapt resource value: 0x7f0900b9
-			public const int mr_cast_meta_art = 2131296441;
-			
-			// aapt resource value: 0x7f0900bb
-			public const int mr_cast_meta_subtitle = 2131296443;
-			
-			// aapt resource value: 0x7f0900ba
-			public const int mr_cast_meta_title = 2131296442;
-			
-			// aapt resource value: 0x7f0900bd
-			public const int mr_cast_route_icon = 2131296445;
-			
-			// aapt resource value: 0x7f0900be
-			public const int mr_cast_route_name = 2131296446;
-			
-			// aapt resource value: 0x7f0900bc
-			public const int mr_cast_stop_button = 2131296444;
-			
-			// aapt resource value: 0x7f0900c0
-			public const int mr_cast_volume_layout = 2131296448;
-			
-			// aapt resource value: 0x7f0900c1
-			public const int mr_cast_volume_slider = 2131296449;
-			
-			// aapt resource value: 0x7f0900c3
-			public const int mr_chooser_list = 2131296451;
-			
-			// aapt resource value: 0x7f0900c6
-			public const int mr_chooser_route_desc = 2131296454;
-			
-			// aapt resource value: 0x7f0900c4
-			public const int mr_chooser_route_icon = 2131296452;
-			
-			// aapt resource value: 0x7f0900c5
-			public const int mr_chooser_route_name = 2131296453;
+			// aapt resource value: 0x7f0900d1
+			public const int mr_art = 2131296465;
 			
 			// aapt resource value: 0x7f0900c2
-			public const int mr_chooser_title = 2131296450;
+			public const int mr_cast_checkbox = 2131296450;
 			
-			// aapt resource value: 0x7f0900cb
-			public const int mr_close = 2131296459;
-			
-			// aapt resource value: 0x7f0900d1
-			public const int mr_control_divider = 2131296465;
-			
-			// aapt resource value: 0x7f0900dc
-			public const int mr_control_playback_ctrl = 2131296476;
-			
-			// aapt resource value: 0x7f0900df
-			public const int mr_control_subtitle = 2131296479;
-			
-			// aapt resource value: 0x7f0900de
-			public const int mr_control_title = 2131296478;
-			
-			// aapt resource value: 0x7f0900dd
-			public const int mr_control_title_container = 2131296477;
-			
-			// aapt resource value: 0x7f0900cc
-			public const int mr_custom_control = 2131296460;
-			
-			// aapt resource value: 0x7f0900cd
-			public const int mr_default_control = 2131296461;
-			
-			// aapt resource value: 0x7f0900c8
-			public const int mr_dialog_area = 2131296456;
-			
-			// aapt resource value: 0x7f0900d7
-			public const int mr_dialog_header_name = 2131296471;
-			
-			// aapt resource value: 0x7f0900c7
-			public const int mr_expandable_area = 2131296455;
-			
-			// aapt resource value: 0x7f0900e0
-			public const int mr_group_expand_collapse = 2131296480;
-			
-			// aapt resource value: 0x7f0900b5
-			public const int mr_group_volume_route_name = 2131296437;
+			// aapt resource value: 0x7f0900bb
+			public const int mr_cast_close_button = 2131296443;
 			
 			// aapt resource value: 0x7f0900b6
-			public const int mr_group_volume_slider = 2131296438;
+			public const int mr_cast_group_icon = 2131296438;
 			
-			// aapt resource value: 0x7f0900cf
-			public const int mr_media_main_control = 2131296463;
+			// aapt resource value: 0x7f0900b7
+			public const int mr_cast_group_name = 2131296439;
 			
-			// aapt resource value: 0x7f0900ca
-			public const int mr_name = 2131296458;
+			// aapt resource value: 0x7f0900b5
+			public const int mr_cast_list = 2131296437;
 			
-			// aapt resource value: 0x7f0900d8
-			public const int mr_picker_close_button = 2131296472;
+			// aapt resource value: 0x7f0900ba
+			public const int mr_cast_meta = 2131296442;
 			
-			// aapt resource value: 0x7f0900d9
-			public const int mr_picker_list = 2131296473;
+			// aapt resource value: 0x7f0900bc
+			public const int mr_cast_meta_art = 2131296444;
 			
-			// aapt resource value: 0x7f0900da
-			public const int mr_picker_route_icon = 2131296474;
+			// aapt resource value: 0x7f0900be
+			public const int mr_cast_meta_subtitle = 2131296446;
 			
-			// aapt resource value: 0x7f0900db
-			public const int mr_picker_route_name = 2131296475;
+			// aapt resource value: 0x7f0900bd
+			public const int mr_cast_meta_title = 2131296445;
 			
-			// aapt resource value: 0x7f0900d0
-			public const int mr_playback_control = 2131296464;
+			// aapt resource value: 0x7f0900c0
+			public const int mr_cast_route_icon = 2131296448;
+			
+			// aapt resource value: 0x7f0900c1
+			public const int mr_cast_route_name = 2131296449;
+			
+			// aapt resource value: 0x7f0900bf
+			public const int mr_cast_stop_button = 2131296447;
+			
+			// aapt resource value: 0x7f0900c3
+			public const int mr_cast_volume_layout = 2131296451;
+			
+			// aapt resource value: 0x7f0900c4
+			public const int mr_cast_volume_slider = 2131296452;
+			
+			// aapt resource value: 0x7f0900c6
+			public const int mr_chooser_list = 2131296454;
 			
 			// aapt resource value: 0x7f0900c9
-			public const int mr_title_bar = 2131296457;
+			public const int mr_chooser_route_desc = 2131296457;
+			
+			// aapt resource value: 0x7f0900c7
+			public const int mr_chooser_route_icon = 2131296455;
+			
+			// aapt resource value: 0x7f0900c8
+			public const int mr_chooser_route_name = 2131296456;
+			
+			// aapt resource value: 0x7f0900c5
+			public const int mr_chooser_title = 2131296453;
+			
+			// aapt resource value: 0x7f0900ce
+			public const int mr_close = 2131296462;
+			
+			// aapt resource value: 0x7f0900d4
+			public const int mr_control_divider = 2131296468;
+			
+			// aapt resource value: 0x7f0900df
+			public const int mr_control_playback_ctrl = 2131296479;
+			
+			// aapt resource value: 0x7f0900e2
+			public const int mr_control_subtitle = 2131296482;
+			
+			// aapt resource value: 0x7f0900e1
+			public const int mr_control_title = 2131296481;
+			
+			// aapt resource value: 0x7f0900e0
+			public const int mr_control_title_container = 2131296480;
+			
+			// aapt resource value: 0x7f0900cf
+			public const int mr_custom_control = 2131296463;
+			
+			// aapt resource value: 0x7f0900d0
+			public const int mr_default_control = 2131296464;
+			
+			// aapt resource value: 0x7f0900cb
+			public const int mr_dialog_area = 2131296459;
+			
+			// aapt resource value: 0x7f0900da
+			public const int mr_dialog_header_name = 2131296474;
+			
+			// aapt resource value: 0x7f0900ca
+			public const int mr_expandable_area = 2131296458;
+			
+			// aapt resource value: 0x7f0900e3
+			public const int mr_group_expand_collapse = 2131296483;
+			
+			// aapt resource value: 0x7f0900b8
+			public const int mr_group_volume_route_name = 2131296440;
+			
+			// aapt resource value: 0x7f0900b9
+			public const int mr_group_volume_slider = 2131296441;
 			
 			// aapt resource value: 0x7f0900d2
-			public const int mr_volume_control = 2131296466;
+			public const int mr_media_main_control = 2131296466;
+			
+			// aapt resource value: 0x7f0900cd
+			public const int mr_name = 2131296461;
+			
+			// aapt resource value: 0x7f0900db
+			public const int mr_picker_close_button = 2131296475;
+			
+			// aapt resource value: 0x7f0900dc
+			public const int mr_picker_list = 2131296476;
+			
+			// aapt resource value: 0x7f0900dd
+			public const int mr_picker_route_icon = 2131296477;
+			
+			// aapt resource value: 0x7f0900de
+			public const int mr_picker_route_name = 2131296478;
 			
 			// aapt resource value: 0x7f0900d3
-			public const int mr_volume_group_list = 2131296467;
+			public const int mr_playback_control = 2131296467;
+			
+			// aapt resource value: 0x7f0900cc
+			public const int mr_title_bar = 2131296460;
 			
 			// aapt resource value: 0x7f0900d5
-			public const int mr_volume_item_icon = 2131296469;
+			public const int mr_volume_control = 2131296469;
 			
 			// aapt resource value: 0x7f0900d6
-			public const int mr_volume_slider = 2131296470;
+			public const int mr_volume_group_list = 2131296470;
+			
+			// aapt resource value: 0x7f0900d8
+			public const int mr_volume_item_icon = 2131296472;
+			
+			// aapt resource value: 0x7f0900d9
+			public const int mr_volume_slider = 2131296473;
 			
 			// aapt resource value: 0x7f090014
 			public const int mtrl_child_content_container = 2131296276;
@@ -6779,20 +9880,26 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090042
 			public const int never = 2131296322;
 			
+			// aapt resource value: 0x7f0900b2
+			public const int new_color_panel = 2131296434;
+			
 			// aapt resource value: 0x7f090029
 			public const int none = 2131296297;
 			
 			// aapt resource value: 0x7f090025
 			public const int normal = 2131296293;
 			
-			// aapt resource value: 0x7f0900f0
-			public const int notification_background = 2131296496;
+			// aapt resource value: 0x7f0900f3
+			public const int notification_background = 2131296499;
 			
-			// aapt resource value: 0x7f0900ea
-			public const int notification_main_column = 2131296490;
+			// aapt resource value: 0x7f0900ed
+			public const int notification_main_column = 2131296493;
 			
-			// aapt resource value: 0x7f0900e9
-			public const int notification_main_column_container = 2131296489;
+			// aapt resource value: 0x7f0900ec
+			public const int notification_main_column_container = 2131296492;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int old_color_panel = 2131296433;
 			
 			// aapt resource value: 0x7f090060
 			public const int outline = 2131296352;
@@ -6821,11 +9928,11 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090055
 			public const int right = 2131296341;
 			
-			// aapt resource value: 0x7f0900ef
-			public const int right_icon = 2131296495;
+			// aapt resource value: 0x7f0900f2
+			public const int right_icon = 2131296498;
 			
-			// aapt resource value: 0x7f0900eb
-			public const int right_side = 2131296491;
+			// aapt resource value: 0x7f0900ee
+			public const int right_side = 2131296494;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -6890,14 +9997,14 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09004f
 			public const int selected = 2131296335;
 			
-			// aapt resource value: 0x7f0900f8
-			public const int shellcontent_appbar = 2131296504;
+			// aapt resource value: 0x7f0900fb
+			public const int shellcontent_appbar = 2131296507;
 			
-			// aapt resource value: 0x7f0900fa
-			public const int shellcontent_scrollview = 2131296506;
+			// aapt resource value: 0x7f0900fd
+			public const int shellcontent_scrollview = 2131296509;
 			
-			// aapt resource value: 0x7f0900f9
-			public const int shellcontent_toolbar = 2131296505;
+			// aapt resource value: 0x7f0900fc
+			public const int shellcontent_toolbar = 2131296508;
 			
 			// aapt resource value: 0x7f090083
 			public const int shortcut = 2131296387;
@@ -6911,8 +10018,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09002c
 			public const int showTitle = 2131296300;
 			
-			// aapt resource value: 0x7f0900fb
-			public const int sliding_tabs = 2131296507;
+			// aapt resource value: 0x7f0900fe
+			public const int sliding_tabs = 2131296510;
 			
 			// aapt resource value: 0x7f0900a4
 			public const int smallLabel = 2131296420;
@@ -6947,8 +10054,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f090056
 			public const int start = 2131296342;
 			
-			// aapt resource value: 0x7f0900e6
-			public const int status_bar_latest_event_content = 2131296486;
+			// aapt resource value: 0x7f0900e9
+			public const int status_bar_latest_event_content = 2131296489;
 			
 			// aapt resource value: 0x7f09005b
 			public const int stretch = 2131296347;
@@ -6998,8 +10105,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09001a
 			public const int textinput_helper_text = 2131296282;
 			
-			// aapt resource value: 0x7f0900ec
-			public const int time = 2131296492;
+			// aapt resource value: 0x7f0900ef
+			public const int time = 2131296495;
 			
 			// aapt resource value: 0x7f090023
 			public const int title = 2131296291;
@@ -7010,8 +10117,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09007e
 			public const int title_template = 2131296382;
 			
-			// aapt resource value: 0x7f0900fc
-			public const int toolbar = 2131296508;
+			// aapt resource value: 0x7f090104
+			public const int toolbar = 2131296516;
 			
 			// aapt resource value: 0x7f090045
 			public const int top = 2131296325;
@@ -7052,11 +10159,11 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f09001b
 			public const int view_offset_helper = 2131296283;
 			
-			// aapt resource value: 0x7f0900fd
-			public const int visible = 2131296509;
+			// aapt resource value: 0x7f090105
+			public const int visible = 2131296517;
 			
-			// aapt resource value: 0x7f0900d4
-			public const int volume_item_container = 2131296468;
+			// aapt resource value: 0x7f0900d7
+			public const int volume_item_container = 2131296471;
 			
 			// aapt resource value: 0x7f090043
 			public const int withText = 2131296323;
@@ -7314,124 +10421,130 @@ namespace DemoOmniTEditor.Droid
 			public const int design_text_input_password_icon = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int FlyoutContent = 2130968621;
+			public const int dialog_color_picker = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int mr_cast_dialog = 2130968622;
+			public const int FlyoutContent = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int mr_cast_group_item = 2130968623;
+			public const int mr_cast_dialog = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int mr_cast_group_volume_item = 2130968624;
+			public const int mr_cast_group_item = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int mr_cast_media_metadata = 2130968625;
+			public const int mr_cast_group_volume_item = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int mr_cast_route_item = 2130968626;
+			public const int mr_cast_media_metadata = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int mr_chooser_dialog = 2130968627;
+			public const int mr_cast_route_item = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int mr_chooser_list_item = 2130968628;
+			public const int mr_chooser_dialog = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int mr_controller_material_dialog_b = 2130968629;
+			public const int mr_chooser_list_item = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int mr_controller_volume_item = 2130968630;
+			public const int mr_controller_material_dialog_b = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int mr_dialog_header_item = 2130968631;
+			public const int mr_controller_volume_item = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int mr_picker_dialog = 2130968632;
+			public const int mr_dialog_header_item = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int mr_picker_route_item = 2130968633;
+			public const int mr_picker_dialog = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int mr_playback_control = 2130968634;
+			public const int mr_picker_route_item = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int mr_volume_control = 2130968635;
+			public const int mr_playback_control = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int mtrl_layout_snackbar = 2130968636;
+			public const int mr_volume_control = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int mtrl_layout_snackbar_include = 2130968637;
+			public const int mtrl_layout_snackbar = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int notification_action = 2130968638;
+			public const int mtrl_layout_snackbar_include = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int notification_action_tombstone = 2130968639;
+			public const int notification_action = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int notification_media_action = 2130968640;
+			public const int notification_action_tombstone = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int notification_media_cancel_action = 2130968641;
+			public const int notification_media_action = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int notification_template_big_media = 2130968642;
+			public const int notification_media_cancel_action = 2130968642;
 			
 			// aapt resource value: 0x7f040043
-			public const int notification_template_big_media_custom = 2130968643;
+			public const int notification_template_big_media = 2130968643;
 			
 			// aapt resource value: 0x7f040044
-			public const int notification_template_big_media_narrow = 2130968644;
+			public const int notification_template_big_media_custom = 2130968644;
 			
 			// aapt resource value: 0x7f040045
-			public const int notification_template_big_media_narrow_custom = 2130968645;
+			public const int notification_template_big_media_narrow = 2130968645;
 			
 			// aapt resource value: 0x7f040046
-			public const int notification_template_custom_big = 2130968646;
+			public const int notification_template_big_media_narrow_custom = 2130968646;
 			
 			// aapt resource value: 0x7f040047
-			public const int notification_template_icon_group = 2130968647;
+			public const int notification_template_custom_big = 2130968647;
 			
 			// aapt resource value: 0x7f040048
-			public const int notification_template_lines_media = 2130968648;
+			public const int notification_template_icon_group = 2130968648;
 			
 			// aapt resource value: 0x7f040049
-			public const int notification_template_media = 2130968649;
+			public const int notification_template_lines_media = 2130968649;
 			
 			// aapt resource value: 0x7f04004a
-			public const int notification_template_media_custom = 2130968650;
+			public const int notification_template_media = 2130968650;
 			
 			// aapt resource value: 0x7f04004b
-			public const int notification_template_part_chronometer = 2130968651;
+			public const int notification_template_media_custom = 2130968651;
 			
 			// aapt resource value: 0x7f04004c
-			public const int notification_template_part_time = 2130968652;
+			public const int notification_template_part_chronometer = 2130968652;
 			
 			// aapt resource value: 0x7f04004d
-			public const int RootLayout = 2130968653;
+			public const int notification_template_part_time = 2130968653;
 			
 			// aapt resource value: 0x7f04004e
-			public const int select_dialog_item_material = 2130968654;
+			public const int RootLayout = 2130968654;
 			
 			// aapt resource value: 0x7f04004f
-			public const int select_dialog_multichoice_material = 2130968655;
+			public const int select_dialog_item_material = 2130968655;
 			
 			// aapt resource value: 0x7f040050
-			public const int select_dialog_singlechoice_material = 2130968656;
+			public const int select_dialog_multichoice_material = 2130968656;
 			
 			// aapt resource value: 0x7f040051
-			public const int ShellContent = 2130968657;
+			public const int select_dialog_singlechoice_material = 2130968657;
 			
 			// aapt resource value: 0x7f040052
-			public const int support_simple_spinner_dropdown_item = 2130968658;
+			public const int ShellContent = 2130968658;
 			
 			// aapt resource value: 0x7f040053
-			public const int Tabbar = 2130968659;
+			public const int support_simple_spinner_dropdown_item = 2130968659;
 			
 			// aapt resource value: 0x7f040054
-			public const int Toolbar = 2130968660;
+			public const int Tabbar = 2130968660;
+			
+			// aapt resource value: 0x7f040055
+			public const int TEditorActivity = 2130968661;
+			
+			// aapt resource value: 0x7f040056
+			public const int Toolbar = 2130968662;
 			
 			static Layout()
 			{
@@ -7439,6 +10552,22 @@ namespace DemoOmniTEditor.Droid
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0f0000
+			public const int TopToolbarMenu = 2131689472;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
 			{
 			}
 		}
@@ -7591,11 +10720,23 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f0a0041
 			public const int bottom_sheet_behavior = 2131361857;
 			
+			// aapt resource value: 0x7f0a0052
+			public const int button_color_picker_alpha = 2131361874;
+			
+			// aapt resource value: 0x7f0a0051
+			public const int button_color_picker_noalpha = 2131361873;
+			
+			// aapt resource value: 0x7f0a0053
+			public const int button_color_picker_round = 2131361875;
+			
 			// aapt resource value: 0x7f0a0042
 			public const int character_counter_content_description = 2131361858;
 			
 			// aapt resource value: 0x7f0a0043
 			public const int character_counter_pattern = 2131361859;
+			
+			// aapt resource value: 0x7f0a004f
+			public const int dialog_color_picker = 2131361871;
 			
 			// aapt resource value: 0x7f0a0044
 			public const int fab_transformation_scrim_behavior = 2131361860;
@@ -7605,6 +10746,9 @@ namespace DemoOmniTEditor.Droid
 			
 			// aapt resource value: 0x7f0a0046
 			public const int hide_bottom_view_on_scroll_behavior = 2131361862;
+			
+			// aapt resource value: 0x7f0a004e
+			public const int library_name = 2131361870;
 			
 			// aapt resource value: 0x7f0a0000
 			public const int mr_button_content_description = 2131361792;
@@ -7696,6 +10840,9 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f0a004c
 			public const int path_password_strike_through = 2131361868;
 			
+			// aapt resource value: 0x7f0a0050
+			public const int press_color_to_apply = 2131361872;
+			
 			// aapt resource value: 0x7f0a0033
 			public const int search_menu_title = 2131361843;
 			
@@ -7733,8 +10880,8 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f0c016d
 			public const int Animation_Design_BottomSheetDialog = 2131493229;
 			
-			// aapt resource value: 0x7f0c0201
-			public const int AppCompatDialogStyle = 2131493377;
+			// aapt resource value: 0x7f0c0202
+			public const int AppCompatDialogStyle = 2131493378;
 			
 			// aapt resource value: 0x7f0c009d
 			public const int Base_AlertDialog_AppCompat = 2131493021;
@@ -8309,11 +11456,11 @@ namespace DemoOmniTEditor.Droid
 			// aapt resource value: 0x7f0c000e
 			public const int CardView_Light = 2131492878;
 			
-			// aapt resource value: 0x7f0c01ff
-			public const int MainTheme = 2131493375;
-			
 			// aapt resource value: 0x7f0c0200
-			public const int MainTheme_Base = 2131493376;
+			public const int MainTheme = 2131493376;
+			
+			// aapt resource value: 0x7f0c0201
+			public const int MainTheme_Base = 2131493377;
 			
 			// aapt resource value: 0x7f0c007e
 			public const int Platform_AppCompat = 2131492990;
@@ -8731,6 +11878,9 @@ namespace DemoOmniTEditor.Droid
 			
 			// aapt resource value: 0x7f0c0111
 			public const int Theme_AppCompat_NoActionBar = 2131493137;
+			
+			// aapt resource value: 0x7f0c01ff
+			public const int Theme_AppCompat_NoActionBar_FullScreen = 2131493375;
 			
 			// aapt resource value: 0x7f0c01a3
 			public const int Theme_Design = 2131493283;

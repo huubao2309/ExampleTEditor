@@ -192,6 +192,7 @@
     <Compile Include="Controls\TEditorWebView.cs" />
     <Compile Include="TEditorImplementation.cs" />
     <Compile Include="ICrossEditorService.cs" />
+    <Compile Include="IGetResourcesService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -247,6 +248,13 @@
       <Project>{E2EC4AD0-294B-447C-BF83-F1D9D092B35E}</Project>
       <Name>OmniTEditor</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EditorResources\editor.html" />
+    <EmbeddedResource Include="EditorResources\ZSSRichTextEditor.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EditorResources\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Annotations.28.0.0.1\build\monoandroid90\Xamarin.Android.Support.Annotations.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Annotations.28.0.0.1\build\monoandroid90\Xamarin.Android.Support.Annotations.targets')" />

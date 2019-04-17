@@ -32,9 +32,7 @@ namespace OmniTEditor.iOS.Controls
             if (string.IsNullOrEmpty(_richTextEditor.InternalHTML))
                 _richTextEditor.InternalHTML = "";
             _richTextEditor.UpdateHTML();
-
-            if (_richTextEditor.AutoFocusInput)
-                _richTextEditor.Focus();
+            _richTextEditor.SetFocused();
         }
     }
 
@@ -237,15 +235,15 @@ namespace OmniTEditor.iOS.Controls
             return await _richTextEditor.GetHTML();
         }
 
-        public void SetAutoFocusInput(bool autoFocusInput)
-        {
-            _richTextEditor.AutoFocusInput = autoFocusInput;
-        }
+        //public void SetAutoFocusInput(bool autoFocusInput)
+        //{
+        //    _richTextEditor.AutoFocusInput = autoFocusInput;
+        //}
 
-        public void SetMacrosDicitionary(Dictionary<string, string> macros)
-        {
-            _richTextEditor.Macros = macros;
-        }
+        //public void SetMacrosDicitionary(Dictionary<string, string> macros)
+        //{
+        //    _richTextEditor.Macros = macros;
+        //}
 
         public override void ViewDidLoad()
         {

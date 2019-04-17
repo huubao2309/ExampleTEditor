@@ -6,7 +6,6 @@ namespace OmniTEditor
 {
     public abstract class BaseTEditor : ITEditor, IDisposable
     {
-        public abstract Task<TEditorResponse> ShowTEditor(string html, ToolbarBuilder toolbarBuilder = null, bool autoFocusInput = false, Dictionary<string, string> macros = null);
 
         /// <summary>
         /// Dispose of class and parent classes
@@ -41,5 +40,9 @@ namespace OmniTEditor
                 disposed = true;
             }
         }
+
+        //for android
+        public abstract Task<TEditorResult> ShowTEditor(string html, ToolbarBuilder toolbarBuilder = null, bool autoFocusInput = false, Dictionary<string, string> macros = null);
+
     }
 }

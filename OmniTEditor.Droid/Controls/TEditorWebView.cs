@@ -8,6 +8,7 @@ using MonoDroid.ColorPickers;
 using Android.Graphics;
 using System.Threading.Tasks;
 using Java.IO;
+using Android.Views.InputMethods;
 
 namespace OmniTEditor.Droid.Controls
 {
@@ -45,9 +46,15 @@ namespace OmniTEditor.Droid.Controls
             if (string.IsNullOrEmpty(_richTextEditor.InternalHTML))
                 _richTextEditor.InternalHTML = "";
             _richTextEditor.UpdateHTML();
+            _richTextEditor.Focus();
 
-            if (_richTextEditor.AutoFocusInput)
-                _richTextEditor.Focus();
+
+            var inputMethodManager = view.Context.ApplicationContext.GetSystemService(Context.InputMethodService) as InputMethodManager;
+            if (inputMethodManager != null)
+            {
+                view.RequestFocus();
+                inputMethodManager.ShowSoftInput(view, ShowFlags.Implicit);
+            }
 
             base.OnPageFinished(view, url);
         }
@@ -170,8 +177,11 @@ namespace OmniTEditor.Droid.Controls
         {
             _richTextEditor.InternalHTML = html;
             _richTextEditor.UpdateHTML();
+        }
 
-
+        public async Task<string> GetHTML()
+        {
+            return await _richTextEditor.GetHTML();
         }
 
         public void InsertHTML(string html)
@@ -180,14 +190,10 @@ namespace OmniTEditor.Droid.Controls
             _richTextEditor.UpdateHTML();
         }
 
-        public async Task<string> GetHTML()
-        {
-            return await _richTextEditor.GetHTML();
-        }
-
         public void SetAutoFocusInput(bool autoFocusInput)
         {
             _richTextEditor.AutoFocusInput = autoFocusInput;
         }
+
     }
 }

@@ -10,9 +10,16 @@ namespace OmniTEditor.Droid
     public class TEditorImplementation : BaseTEditor
     {
         public static ToolbarBuilder ToolbarBuilder = null;
-        public override Task<TEditorResponse> ShowTEditor(string html, ToolbarBuilder toolbarBuilder = null, bool autoFocusInput = false, Dictionary<string, string> macros = null)
+
+        public override void Dispose(bool disposing)
         {
-            var result = new TaskCompletionSource<TEditorResponse>();
+            base.Dispose(disposing);
+            ToolbarBuilder = null;
+        }
+
+        public override Task<TEditorResult> ShowTEditor(string html, ToolbarBuilder toolbarBuilder = null, bool autoFocusInput = false, Dictionary<string, string> macros = null)
+        {
+            var result = new TaskCompletionSource<TEditorResult>();
 
             var tActivity = new Intent(Application.Context, typeof(TEditorActivity));
             ToolbarBuilder = toolbarBuilder;
@@ -33,19 +40,13 @@ namespace OmniTEditor.Droid
                 TEditorActivity.SetOutput = null;
                 if (res)
                 {
-                    result.SetResult(new TEditorResponse() { IsSave = true, HTML = resStr });
+                    result.SetResult(new TEditorResult() { Html = resStr, IsSave = true });
                 }
                 else
-                    result.SetResult(new TEditorResponse() { IsSave = false, HTML = string.Empty });
+                    result.SetResult(new TEditorResult() { Html = string.Empty, IsSave = false });
             };
             Application.Context.StartActivity(tActivity);
             return result.Task;
-        }
-
-        public override void Dispose(bool disposing)
-        {
-            base.Dispose(disposing);
-            ToolbarBuilder = null;
         }
     }
 }

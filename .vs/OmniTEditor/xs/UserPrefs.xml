@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{43400BE5-9364-4E51-AEEA-523BEB316020}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoApp.DemoOmniTEditor.Android PreferredExecutionTarget="Android.E5AZCY489464" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OmniTEditor.Droid/TEditorImplementation.cs">
+    <Files>
+      <File FileName="OmniTEditor.iOS/TEditorImplementation.cs" Line="88" Column="1" />
+      <File FileName="OmniTEditor.iOS/ICrossEditorService.cs" Line="19" Column="6" />
+      <File FileName="OmniTEditor/BaseTEditor.cs" Line="16" Column="39" />
+      <File FileName="OmniTEditor/ITEditor.cs" Line="3" Column="30" />
+      <File FileName="OmniTEditor.Droid/TEditorImplementation.cs" Line="12" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OmniTEditor" expanded="True">
+            <Node name="DemoApp" expanded="True" />
+            <Node name="OmniTEditor" expanded="True" />
+            <Node name="OmniTEditor.Droid" expanded="True">
+              <Node name="TEditorImplementation.cs" selected="True" />
+            </Node>
+            <Node name="OmniTEditor.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoApp.DemoOmniTEditor.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7D881EF6-263A-4466-9AEC-E8C929C36EB4" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OmniTEditor.Droid PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

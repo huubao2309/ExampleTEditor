@@ -23,6 +23,20 @@ namespace OmniTEditor
                 throw new ArgumentNullException("Function cannot be null");
             _javaScriptEvaluatFuncWithResult = function;
         }
+
+        public void SetFocused()
+        {
+            string trigger = string.Format("zss_editor.focusEditor();");
+            _javaScriptEvaluatFunc.Invoke(trigger);
+        }
+
+        //for android
+        public void Focus()
+        {
+            string trigger = @"zss_editor.focusEditor();";
+            _javaScriptEvaluatFunc.Invoke(trigger);
+        }
+
         public void UpdateHTML()
         {
             string html = this.InternalHTML;
@@ -63,12 +77,6 @@ namespace OmniTEditor
             _javaScriptEvaluatFunc.Invoke(trigger);
         }
 
-        public void Focus()
-        {
-            string trigger = @"zss_editor.focusEditor();";
-            _javaScriptEvaluatFunc.Invoke(trigger);
-        }
-
         public void RemoveFormat()
         {
             string trigger = @"zss_editor.removeFormating();";
@@ -100,6 +108,12 @@ namespace OmniTEditor
         }
 
         public void SetBold()
+        {
+            string trigger = @"zss_editor.setBold();";
+            _javaScriptEvaluatFunc.Invoke(trigger);
+        }
+
+        public void SetBoldAndroid()
         {
             string trigger = @"zss_editor.setBold();";
             _javaScriptEvaluatFunc.Invoke(trigger);

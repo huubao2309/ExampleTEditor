@@ -8,81 +8,80 @@ namespace TEditor
 {
     public class TEditorImplementation : BaseTEditor
     {
-        public override Task<TEditorResponse> ShowTEditor(string html, ToolbarBuilder toolbarBuilder = null, bool autoFocusInput = false, Dictionary<string, string> macros = null)
+        private static UINavigationController FindNavigationController(UIViewController parrent)
         {
-            TaskCompletionSource<TEditorResponse> taskRes = new TaskCompletionSource<TEditorResponse>();
-            var tvc = new TEditorViewController();
-            ToolbarBuilder builder = toolbarBuilder;
-            if (toolbarBuilder == null)
-                builder = new ToolbarBuilder().AddAll();
-            tvc.BuildToolbar(builder);
-            tvc.SetHTML(html);
-            tvc.SetAutoFocusInput(autoFocusInput);
-            tvc.Title = CrossTEditor.PageTitle;
+            var navigationController = parrent?.NavigationController;
+            if (navigationController != null)
+                return navigationController;
 
-            tvc.SetMacrosDicitionary(macros);
+            if (parrent?.ChildViewControllers == null || !parrent.ChildViewControllers.Any())
+                return null;
 
-            UINavigationController nav = null;
-            foreach (var vc in
-                UIApplication.SharedApplication.Windows[0].RootViewController.ChildViewControllers)
+            foreach (var parrentChildViewController in parrent.ChildViewControllers)
             {
-                if (vc is UINavigationController)
-                    nav = (UINavigationController)vc;
+                if (parrentChildViewController is UINavigationController uiNavigationController)
+                    return uiNavigationController;
+
+                if (parrentChildViewController is UITabBarController tabController)
+                {
+                    if (tabController.SelectedViewController.NavigationController != null)
+                        return tabController.SelectedViewController.NavigationController;
+
+                    var lastSelectedTabNavigationController = tabController.SelectedViewController.ChildViewControllers?.Last()?.NavigationController;
+                    if (lastSelectedTabNavigationController != null)
+                        return lastSelectedTabNavigationController;
+                }
+
+                if (parrentChildViewController.PresentedViewController != null)
+                {
+                    var newFindNavigationController = FindNavigationController(parrentChildViewController.PresentedViewController);
+                    if (newFindNavigationController == null)
+                        continue;
+
+                    return newFindNavigationController;
+                }
             }
-            tvc.NavigationItem.SetLeftBarButtonItem(new UIBarButtonItem(CrossTEditor.CancelText, UIBarButtonItemStyle.Plain, (item, args) =>
-            {
-                if (nav != null)
-                    nav.PopViewController(true);
-                taskRes.SetResult(new TEditorResponse() { IsSave = false, HTML = string.Empty });
-            }), true);
-            tvc.NavigationItem.SetRightBarButtonItem(new UIBarButtonItem(CrossTEditor.SaveText, UIBarButtonItemStyle.Done, async (item, args) =>
-            {
-                if (nav != null)
-                    nav.PopViewController(true);
-                taskRes.SetResult(new TEditorResponse() { IsSave = true, HTML = await tvc.GetHTML() });
-            }), true);
 
-            if (nav != null)
-                nav.PushViewController(tvc, true);
-            return taskRes.Task;
+            // Not found
+            return null;
         }
 
-        //private static UINavigationController FindNavigationController(UIViewController parrent)
-        //{
-        //    var navigationController = parrent?.NavigationController;
-        //    if (navigationController != null)
-        //        return navigationController;
+        public override Task<TEditorResult> ShowTEditor(string html, ToolbarBuilder toolbarBuilder = null, bool autoFocusInput = false, Dictionary<string, string> macros = null)
+        {
+            // TODO: HTML input must be not null
+            if (string.IsNullOrEmpty(html))
+                html = string.Empty;
 
-        //    if (parrent?.ChildViewControllers == null || !parrent.ChildViewControllers.Any())
-        //        return null;
+            var taskRes = new TaskCompletionSource<TEditorResult>();
+            var tvc = new TEditorViewController();
+            var builder = toolbarBuilder;
+            if (toolbarBuilder == null)
+                builder = new ToolbarBuilder().AddAll();
 
-        //    foreach (var parrentChildViewController in parrent.ChildViewControllers)
-        //    {
-        //        if (parrentChildViewController is UINavigationController uiNavigationController)
-        //            return uiNavigationController;
+            tvc.BuildToolbar(builder);
+            tvc.SetHTML(html);
 
-        //        if (parrentChildViewController is UITabBarController tabController)
-        //        {
-        //            if (tabController.SelectedViewController.NavigationController != null)
-        //                return tabController.SelectedViewController.NavigationController;
+            // find a navigation controller
+            var nav = FindNavigationController(UIApplication.SharedApplication.KeyWindow.RootViewController);
 
-        //            var lastSelectedTabNavigationController = tabController.SelectedViewController.ChildViewControllers?.Last()?.NavigationController;
-        //            if (lastSelectedTabNavigationController != null)
-        //                return lastSelectedTabNavigationController;
-        //        }
+            // done button
+            var doneIcon = UIImage.FromFile("Images/fa-check@2x.png");
+            var doneButton = new UIBarButtonItem(doneIcon, UIBarButtonItemStyle.Done, async (item, args) =>
+            {
+                nav?.PopViewController(true);
+                taskRes.SetResult(new TEditorResult
+                {
+                    IsSave = false,
+                    Html = await tvc.GetHTML()
+                });
+            });
 
-        //        if (parrentChildViewController.PresentedViewController != null)
-        //        {
-        //            var newFindNavigationController = FindNavigationController(parrentChildViewController.PresentedViewController);
-        //            if (newFindNavigationController == null)
-        //                continue;
+            // navigation to editor html view
+            tvc.NavigationItem.SetRightBarButtonItem(doneButton, true);
+            nav?.PushViewController(tvc, true);
 
-        //            return newFindNavigationController;
-        //        }
-        //    }
-
-        //    // Not found
-        //    return null;
-        //}
+            // set result 
+            return taskRes.Task;
+        }
     }
 }

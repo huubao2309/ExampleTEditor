@@ -13,7 +13,7 @@ namespace OmniTEditor.Droid
 
         public void OpenEditor()
         {
-            new TEditorImplementation().ShowTEditor("<p>XAM consulting</p>");
+            new TEditorImplementation().ShowTEditor("<p>XAM consulting</p>",toolbarBuilder:null,autoFocusInput: false);
         }
     }
 }

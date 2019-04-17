@@ -37,6 +37,8 @@ namespace OmniTEditor
 
         void Redo();
 
+        void SetFocused();
+
         void SetBold();
 
         void SetHR();
